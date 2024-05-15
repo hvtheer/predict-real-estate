@@ -2,7 +2,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39431418,Nhà biệt thự liền kề,Gia Lâm,15/05/2024,"192,5 m²",Thỏa thuận,Đang chờ sổ,Không nội thất.,4 phòng,3 phòng,,,,,
 39852591,Nhà biệt thự liền kề,Thanh Xuân,15/05/2024,150 m²,50 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,3 tầng,,,20 m,"11,5 m"
 39653437,Nhà riêng,Hai Bà Trưng,15/05/2024,60 m²,"12,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,,6 tầng,,,,"5,6 m"
-36063429,Nhà riêng,,,,,,,,,,,,,
 39796278,Nhà riêng,Ba Đình,09/05/2024,102 m²,"17,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,,5 tầng,,,,
 39796282,Nhà riêng,Ba Đình,09/05/2024,62 m²,"13,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,,5 tầng,Đông - Bắc,,,
 38474673,Nhà riêng,Nam Từ Liêm,13/05/2024,32 m²,"3,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,5 tầng,,,3 m,5 m
@@ -15,24 +14,18 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39528474,Nhà mặt phố,Tây Hồ,15/05/2024,60 m²,24 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,6 tầng,,,8 m,4 m
 39781734,Shophouse/Nhà phố thương mại,Gò Vấp,07/05/2024,96 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,4 tầng,,,8 m,4 m
 39413331,Nhà riêng,Long Biên,10/05/2024,105 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,,3 tầng,,,17 m,10 m
-39852585,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39746377,Nhà mặt phố,Hoàn Kiếm,15/05/2024,40 m²,32 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,
-39850202,Nhà riêng,,,,,,,,,,,,,
 39807177,Nhà riêng,Hoài Đức,10/05/2024,57 m²,10 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,18 phòng,18 phòng,8 tầng,Đông,Đông,"2,5 m","4,2 m"
 39637444,Nhà riêng,Bắc Từ Liêm,06/05/2024,66 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,2 phòng,2 tầng,Nam,Nam,5 m,4 m
 39538904,Nhà riêng,Ba Đình,15/05/2024,85 m²,"17,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,6 phòng,6 tầng,,,8 m,5 m
-39852577,Nhà riêng,,,,,,,,,,,,,
 39772248,Nhà mặt phố,Cầu Giấy,07/05/2024,52 m²,"28,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,5 phòng,7 tầng,Tây - Bắc,Tây - Bắc,15 m,5 m
 39570512,Nhà riêng,Hoàng Mai,15/05/2024,30 m²,"3,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,4 phòng,5 tầng,,,8 m,"4,1 m"
 39778317,Nhà riêng,Cầu Giấy,07/05/2024,52 m²,"14,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,,5 tầng,,,,
-39772691,Nhà riêng,,,,,,,,,,,,,
-39805120,Nhà riêng,,,,,,,,,,,,,
 39782527,Nhà riêng,Cầu Giấy,07/05/2024,78 m²,"12,58 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,5 tầng,Đông - Bắc,,"2,5 m","6,7 m"
 39782924,Nhà riêng,Cầu Giấy,07/05/2024,60 m²,"17,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,3 phòng,5 tầng,,,,
 39764143,Nhà riêng,Nam Từ Liêm,06/05/2024,65 m²,"10,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,14 phòng,14 phòng,6 tầng,,,2 m,
 39442391,Nhà riêng,Hai Bà Trưng,07/05/2024,100 m²,"25,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,7 tầng,,,,"5,2 m"
 39794443,Nhà riêng,Ba Đình,08/05/2024,36 m²,"10,3 tỷ",Sổ đỏ/ Sổ hồng,"Đầy đủ thang máy, điều hoà, nóng lạnh.",3 phòng,5 phòng,7 tầng,,,"3,2 m",4 m
-39828539,Nhà riêng,,,,,,,,,,,,,
 39829686,Nhà riêng,Đống Đa,12/05/2024,55 m²,"18,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,12 phòng,,8 tầng,Tây - Bắc,,,
 39455879,Nhà mặt phố,Hai Bà Trưng,15/05/2024,48 m²,14 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,3 tầng,,,,
 39764372,Nhà riêng,Nam Từ Liêm,06/05/2024,58 m²,9 tỷ,Sổ đỏ/ Sổ hồng.,,12 phòng,12 phòng,6 tầng,,,2 m,
@@ -46,7 +39,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39506381,Nhà riêng,Bắc Từ Liêm,07/05/2024,121 m²,"39,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,48 phòng,50 phòng,9 tầng,Đông - Bắc,Đông - Bắc,10 m,5 m
 39423675,Nhà riêng,Hoài Đức,11/05/2024,33 m²,"3,1 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,5 tầng,,,3 m,"3,5 m"
 39852576,Nhà riêng,Bắc Từ Liêm,15/05/2024,55 m²,"12,5 tỷ",,,,,,,,,"4,5 m"
-39841818,Nhà riêng,,,,,,,,,,,,,
 39594831,Nhà riêng,Ba Đình,15/05/2024,45 m²,"12,9 tỷ",,Đầy đủ nội thất đẹp toàn gỗ Lim.,4 phòng,4 phòng,5 tầng,,,8 m,4 m
 39674929,Nhà riêng,Ba Đình,15/05/2024,42 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,,4 tầng,,,,
 39659147,Nhà riêng,Hoài Đức,09/05/2024,62 m²,"10,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,16 phòng,17 phòng,7 tầng,,,"3,5 m","4,5 m"
@@ -55,7 +47,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39760670,Nhà riêng,Bắc Từ Liêm,06/05/2024,30 m²,"7,35 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,4 tầng,Tây - Nam,Tây - Nam,11 m,
 39495472,Nhà riêng,Bắc Từ Liêm,06/05/2024,124 m²,21 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản.,11 phòng,6 phòng,6 tầng,Tây - Nam,Tây - Nam,6 m,8 m
 39630250,Nhà riêng,Đống Đa,15/05/2024,65 m²,"12,95 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,4 m,"4,5 m"
-39796732,Nhà riêng,,,,,,,,,,,,,
 39666384,Nhà riêng,Bắc Từ Liêm,09/05/2024,36 m²,"7,7 tỷ",Sổ đỏ,,3 phòng,5 phòng,6 tầng,,,5 m,3 m
 39852303,Nhà riêng,Hà Đông,15/05/2024,50 m²,"7,95 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,5 m,6 m
 39830973,Nhà riêng,Long Biên,13/05/2024,35 m²,"4,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,3 phòng,,4 tầng,,,5 m,"3,3 m"
@@ -69,13 +60,11 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39830967,Nhà riêng,Long Biên,13/05/2024,43 m²,"4,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,3 phòng,,4 tầng,,,"2,5 m",5 m
 39751403,Nhà riêng,Tây Hồ,15/05/2024,45 m²,"13,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,8 m,6 m
 39829640,Nhà riêng,Ba Đình,12/05/2024,80 m²,11 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,,4 m
-39852561,Nhà riêng,,,,,,,,,,,,,
 39659320,Nhà riêng,Nam Từ Liêm,09/05/2024,61 m²,"9,5 tỷ","+ Pháp lý rõ ràng, sẵn sàng giao dịch.","Đầy đủ để lại 100% nội thất gỗ xịn. + Nội thất bàn ghế gỗ trắc, cầu thang cửa toàn gỗ lim dùng mấy chục năm càng dùng càng bóng loáng.",3 phòng,4 phòng,4 tầng,Đông - Nam,Đông - Nam,10 m,"3,6 m"
 39745089,Nhà riêng,Long Biên,14/05/2024,32 m²,"5,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,,5 tầng,,,3 m,4 m
 39735156,Nhà riêng,Thanh Trì,15/05/2024,32 m²,"4,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,5 tầng,Đông - Nam,,4 m,"4,5 m"
 39852559,Nhà mặt phố,Hai Bà Trưng,15/05/2024,50 m²,"19,5 tỷ",,,3 phòng,,5 tầng,,,,"3,5 m"
 39538918,Nhà riêng,Tây Hồ,15/05/2024,80 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,8 phòng,8 tầng,,,4 m,"5,3 m"
-39773113,Nhà riêng,,,,,,,,,,,,,
 34135683,Nhà riêng,Gia Lâm,15/05/2024,"62,2 m²",71 triệu/m²,Sổ đỏ.,,,,,,,,
 39816009,Nhà riêng,Long Biên,10/05/2024,24 m²,"5,5 tỷ",Sổ đỏ/ Sổ hồng.,Cơ bản.,3 phòng,,6 tầng,,,10 m,"4,1 m"
 39738879,Nhà mặt phố,Gia Lâm,15/05/2024,"85,5 m²",80 triệu/m²,Sổ đỏ/ Sổ hồng,,,,,,,40 m,
@@ -91,7 +80,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852644,Nhà mặt phố,Cầu Giấy,15/05/2024,103 m²,42 tỷ,,,7 phòng,,8 tầng,,,,
 39852335,Nhà mặt phố,Hà Đông,15/05/2024,36 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,5 tầng,,,,
 39852338,Nhà riêng,Long Biên,15/05/2024,42 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng.,,3 phòng,4 phòng,5 tầng,,,6 m,"4,5 m"
-39852336,Nhà mặt phố,,,,,,,,,,,,,
 39686187,Nhà riêng,Đống Đa,15/05/2024,52 m²,"20,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,7 phòng,7 tầng,,,12 m,"4,2 m"
 39729744,Nhà riêng,Đống Đa,15/05/2024,150 m²,13 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,,,"3,5 m",8 m
 39458546,Nhà riêng,Hoàng Mai,15/05/2024,80 m²,"13,5 tỷ",Sổ đỏ,Đầy đủ.,,,,,,,5 m
@@ -102,20 +90,15 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852331,Nhà riêng,Hoàng Mai,15/05/2024,55 m²,"9,89 tỷ",,,6 phòng,4 phòng,5 tầng,,,,
 39507309,Nhà riêng,Cầu Giấy,15/05/2024,55 m²,"14,5 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,,5 tầng,,,,
 39852325,Nhà riêng,Hà Đông,15/05/2024,32 m²,"4,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,
-39841867,Nhà riêng,,,,,,,,,,,,,
 39592100,Nhà riêng,Cầu Giấy,15/05/2024,57 m²,"15,5 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,,4 tầng,,,,
 39500768,Nhà riêng,Cầu Giấy,06/05/2024,55 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,11 phòng,11 phòng,6 tầng,Đông - Nam,Đông - Nam,5 m,"3,4 m"
 39789369,Nhà mặt phố,Ba Đình,08/05/2024,39 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,,
 39841776,Nhà riêng,Cầu Giấy,14/05/2024,45 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,,,8 tầng,,,,5 m
-39841787,Nhà mặt phố,,,,,,,,,,,,,
 39686151,Nhà riêng,Nam Từ Liêm,10/05/2024,89 m²,"19,2 tỷ",Sổ đỏ/ Sổ hồng.,"Đầy đủ + Chủ nhà tự xây siêu xịn sò. Thang máy, điều hoà âm trần, full nội thất. + Tặng full nội thất bao gồm, - Đồ liền tường., - Thiết bị bếp: Bếp Bosch, Máy rửa bát Bosch, Tủ Lạnh, máy giặt, - Giư.",8 phòng,9 phòng,6 tầng,Đông - Nam,Đông - Nam,5 m,"4,4 m"
-39675752,Nhà riêng,,,,,,,,,,,,,
 39714286,Nhà riêng,Nam Từ Liêm,14/05/2024,135 m²,22 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,35 phòng,35 phòng,7 tầng,,,"3,5 m",14 m
 39807354,Nhà riêng,Nam Từ Liêm,10/05/2024,62 m²,"9,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,12 phòng,12 phòng,7 tầng,Đông - Nam,Đông - Nam,2 m,"4,7 m"
 39631404,Nhà riêng,Nam Từ Liêm,06/05/2024,65 m²,"13,3 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ full nội thất.,16 phòng,16 phòng,7 tầng,,,4 m,11 m
 39298000,Nhà mặt phố,Bắc Từ Liêm,12/05/2024,144 m²,42 tỷ,,,11 phòng,11 phòng,7 tầng,,,25 m,8 m
-39834151,Nhà riêng,,,,,,,,,,,,,
-39811747,Nhà riêng,,,,,,,,,,,,,
 39694749,Nhà riêng,Hoài Đức,06/05/2024,42 m²,"2,85 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,3 phòng,4 tầng,,,4 m,4 m
 32397061,Nhà mặt phố,Long Biên,22/04/2024,106 m²,"32,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,26 phòng,26 phòng,8 tầng,,,50 m,"5,6 m"
 39592906,Nhà riêng,Đống Đa,12/05/2024,93 m²,20 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,8 phòng,7 tầng,,,,
@@ -127,15 +110,10 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852267,Nhà riêng,Bắc Từ Liêm,15/05/2024,42 m²,"7,3 tỷ",Sổ đỏ/ Sổ hồng.,Cơ bản,4 phòng,3 phòng,5 tầng,,,5 m,4 m
 39772055,Nhà riêng,Thanh Xuân,07/05/2024,72 m²,"9,9 tỷ",Sổ đỏ/ Sổ hồng.,,4 phòng,3 phòng,4 tầng,,,,
 39614437,Nhà mặt phố,Hoàn Kiếm,15/05/2024,355 m²,96 tỷ,Sổ đỏ/ Sổ hồng.,Đầy đủ.,40 phòng,40 phòng,8 tầng,Tây - Nam,,,"9,3 m"
-39683824,Nhà riêng,,,,,,,,,,,,,
 39844582,Nhà riêng,Hoàng Mai,14/05/2024,45 m²,"5,75 tỷ",Sổ đỏ,,6 phòng,4 phòng,5 tầng,,,,"4,6 m"
 39458593,Nhà riêng,Tây Hồ,09/05/2024,113 m²,"29,5 tỷ",Sổ đỏ/ Sổ hồng,,,,7 tầng,,,8 m,"10,55 m"
-39822348,Nhà riêng,,,,,,,,,,,,,
-39760751,Nhà riêng,,,,,,,,,,,,,
 39828581,Nhà riêng,Đống Đa,12/05/2024,50 m²,"13,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,6 phòng,8 tầng,,,5 m,
 39713919,Nhà mặt phố,Hoàn Kiếm,15/05/2024,110 m²,"27,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,2 phòng,3 tầng,,,,10 m
-39643230,Nhà riêng,,,,,,,,,,,,,
-39841663,Nhà mặt phố,,,,,,,,,,,,,
 39818713,Nhà riêng,Đống Đa,11/05/2024,146 m²,66 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,20 m,"6,7 m"
 39661380,Nhà riêng,Nam Từ Liêm,08/05/2024,115 m²,"27,5 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,26 phòng,26 phòng,7 tầng,,,10 m,5 m
 38945823,Nhà biệt thự liền kề,Hoài Đức,15/05/2024,100 m²,Thỏa thuận,Hợp đồng mua bán,Cơ bản,,,5 tầng,,,30 m,
@@ -154,7 +132,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39210133,Nhà riêng,Đống Đa,10/05/2024,"62,5 m²","10,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,5 tầng,Đông - Nam,Đông - Nam,3 m,5 m
 39804698,Nhà mặt phố,Bắc Từ Liêm,09/05/2024,100 m²,25 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,,,,,15 m,6 m
 39834304,Nhà riêng,Hai Bà Trưng,13/05/2024,33 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,Đông - Nam,,"2,8 m",4 m
-39361460,Nhà mặt phố,,,,,,,,,,,,,
 39834563,Nhà riêng,Hai Bà Trưng,13/05/2024,60 m²,"14,5 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,5 phòng,6 tầng,Nam,,4 m,"4,3 m"
 39593889,Nhà biệt thự liền kề,Hai Bà Trưng,10/05/2024,"73,5 m²",28 tỷ,,,3 phòng,3 phòng,4 tầng,,,,5 m
 39554229,Nhà biệt thự liền kề,Long Biên,10/05/2024,164 m²,28 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,,"7,2 m"
@@ -166,26 +143,11 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852252,Nhà riêng,Cầu Giấy,15/05/2024,55 m²,"8,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,9 phòng,9 phòng,5 tầng,,,3 m,
 39653388,Nhà riêng,Thanh Xuân,13/05/2024,50 m²,"7,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,11 phòng,6 tầng,,,5 m,7 m
 38116949,Nhà biệt thự liền kề,Hà Đông,07/05/2024,49 m²,"10,8 tỷ",Sổ đỏ,,6 phòng,7 phòng,5 tầng,,,,
-39802943,Nhà mặt phố,,,,,,,,,,,,,
-39757449,Nhà mặt phố,,,,,,,,,,,,,
-39830071,Nhà mặt phố,,,,,,,,,,,,,
-39783983,Nhà riêng,,,,,,,,,,,,,
-39852246,Shophouse/Nhà phố thương mại,,,,,,,,,,,,,
 39721772,Nhà riêng,Thanh Trì,11/05/2024,60 m²,9 tỷ,,,,,4 tầng,,,,
 39815200,Nhà mặt phố,Hà Đông,10/05/2024,135 m²,41 tỷ,Sổ đỏ/ Sổ hồng,,,,7 tầng,,,,
 39811700,Nhà biệt thự liền kề,Thanh Xuân,10/05/2024,108 m²,42 tỷ,Sổ đỏ/ Sổ hồng,,,,7 tầng,,,,20 m
 39852417,Nhà biệt thự liền kề,Hoài Đức,15/05/2024,290 m²,25 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,8 phòng,5 tầng,,,13 m,"13,5 m"
-37807587,Nhà riêng,,,,,,,,,,,,,
-39701294,Nhà riêng,,,,,,,,,,,,,
-39836100,Nhà riêng,,,,,,,,,,,,,
-39661403,Nhà riêng,,,,,,,,,,,,,
-37994432,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39829579,Nhà riêng,Đống Đa,12/05/2024,15 m²,"2,9 tỷ",Sổ đỏ/ Sổ hồng,,1 phòng,,2 tầng,,,,
-37950572,Nhà biệt thự liền kề,,,,,,,,,,,,,
-39851985,Nhà riêng,,,,,,,,,,,,,
-39348457,Nhà biệt thự liền kề,,,,,,,,,,,,,
-39471992,Nhà riêng,,,,,,,,,,,,,
-39492404,Nhà mặt phố,,,,,,,,,,,,,
 39648237,Nhà biệt thự liền kề,Đông Anh,15/05/2024,70 m²,Thỏa thuận,Hợp đồng mua bán,Không nội thất,4 phòng,4 phòng,5 tầng,Nam,Nam,30 m,5 m
 39215290,Nhà biệt thự liền kề,Tây Hồ,15/05/2024,330 m²,100 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,,3 tầng,Nam,,,
 39475136,Nhà biệt thự liền kề,Hà Đông,15/05/2024,88 m²,"17,6 tỷ",Sổ đỏ,Đầy đủ,6 phòng,,5 tầng,,,17 m,"4,7 m"
@@ -204,24 +166,11 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39807228,Nhà riêng,Ba Đình,10/05/2024,36 m²,"6,5 tỷ",Sổ đỏ,Đầy đủ,4 phòng,4 phòng,5 tầng,,,5 m,9 m
 39831102,Nhà riêng,Cầu Giấy,13/05/2024,50 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,8 phòng,6 tầng,,,4 m,"4,5 m"
 39752530,Nhà riêng,Hai Bà Trưng,15/05/2024,57 m²,"14,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,6 phòng,6 phòng,6 tầng,Tây - Nam,Tây - Nam,4 m,"4,3 m"
-39829406,Nhà riêng,,,,,,,,,,,,,
-39843209,Nhà riêng,,,,,,,,,,,,,
-39807335,Nhà mặt phố,,,,,,,,,,,,,
-39831126,Nhà riêng,,,,,,,,,,,,,
-39823047,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39852233,Nhà riêng,Thường Tín,15/05/2024,"76,3 m²",5 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,2 phòng,3 tầng,,,,"5,1 m"
 39333036,Nhà biệt thự liền kề,Tây Hồ,15/05/2024,154 m²,57 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,4 tầng,,,,8 m
 39708291,Nhà mặt phố,Đống Đa,06/05/2024,"48,7 m²","14,9 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,,
 39675420,Nhà biệt thự liền kề,Tây Hồ,15/05/2024,132 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Không nội thất,4 phòng,5 phòng,4 tầng,Đông - Nam,,,"8,5 m"
-39729133,Nhà biệt thự liền kề,,,,,,,,,,,,,
-39809304,Nhà riêng,,,,,,,,,,,,,
 39819844,Nhà riêng,Cầu Giấy,11/05/2024,45 m²,13 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,10 m,"5,6 m"
-39753490,Nhà mặt phố,,,,,,,,,,,,,
-39839241,Nhà riêng,,,,,,,,,,,,,
-39675595,Nhà biệt thự liền kề,,,,,,,,,,,,,
-39818839,Nhà riêng,,,,,,,,,,,,,
-39839393,Nhà biệt thự liền kề,,,,,,,,,,,,,
-39505080,Nhà riêng,,,,,,,,,,,,,
 39745879,Nhà mặt phố,Hoàn Kiếm,15/05/2024,35 m²,"22,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,10 m,"3,8 m"
 39677014,Nhà riêng,Hoàng Mai,06/05/2024,45 m²,"13,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,4 phòng,6 phòng,6 tầng,,,,
 39557940,Nhà mặt phố,Cầu Giấy,12/05/2024,77 m²,"35,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,12 phòng,8 tầng,,,7 m,"6,7 m"
@@ -231,10 +180,8 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39787981,Nhà riêng,Hoàng Mai,08/05/2024,65 m²,"10,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,18 phòng,18 phòng,6 tầng,,,,
 39183632,Nhà mặt phố,Hai Bà Trưng,13/05/2024,64 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,5 tầng,,,,
 39768051,Nhà riêng,Tây Hồ,06/05/2024,68 m²,9 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,
-39807171,Nhà mặt phố,,,,,,,,,,,,,
 39570078,Nhà riêng,Gia Lâm,13/05/2024,33 m²,"2,9 tỷ",,,3 phòng,3 phòng,4 tầng,,,3 m,5 m
 39852380,Nhà biệt thự liền kề,Hà Đông,15/05/2024,60 m²,"9,98 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,5 tầng,,,,
-39792016,Nhà riêng,,,,,,,,,,,,,
 39852379,Nhà riêng,Thanh Xuân,15/05/2024,76 m²,"14,4 tỷ",Sổ đỏ/ Sổ hồng,,,,8 tầng,,,,
 39852220,Nhà riêng,Hoài Đức,15/05/2024,51 m²,"2,6 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,2 phòng,3 tầng,Đông - Nam,Đông - Nam,"4,2 m",5 m
 37933622,Nhà mặt phố,Thanh Xuân,15/05/2024,720 m²,200 tỷ,Sổ đỏ chính chủ,Đang dùng,8 phòng,8 phòng,3 tầng,,,24 m,20 m
@@ -248,7 +195,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39281925,Nhà riêng,Hà Đông,15/05/2024,54 m²,"7,85 tỷ",,,4 phòng,3 phòng,3 tầng,,,12 m,"4,5 m"
 39694884,Nhà riêng,Hoài Đức,06/05/2024,33 m²,"2,65 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,,,3 m,"3,5 m"
 37157075,Nhà riêng,Tây Hồ,08/05/2024,134 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,"8,4 m"
-39767356,Nhà riêng,,,,,,,,,,,,,
 39273387,Nhà mặt phố,Hoàn Kiếm,15/05/2024,270 m²,220 tỷ,Sổ đỏ/ Sổ hồng,,8 phòng,8 phòng,11 tầng,,,20 m,9 m
 39798774,Nhà riêng,Bắc Từ Liêm,09/05/2024,97 m²,8 tỷ,Sổ đỏ/ Sổ hồng,,6 phòng,4 phòng,3 tầng,,,9 m,
 39844202,Nhà riêng,Hoàng Mai,14/05/2024,37 m²,"5,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,5 tầng,,,,
@@ -266,13 +212,10 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39402821,Nhà riêng,Nam Từ Liêm,15/05/2024,180 m²,64 tỷ,,,,,8 tầng,,,,12 m
 39852213,Nhà riêng,Hai Bà Trưng,15/05/2024,83 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,5 phòng,6 phòng,7 tầng,,,,6 m
 39838340,Nhà riêng,Cầu Giấy,13/05/2024,196 m²,60 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,7 phòng,5 tầng,,,8 m,"14,5 m"
-39852212,Nhà riêng,,,,,,,,,,,,,
 39730489,Nhà riêng,Long Biên,12/05/2024,95 m²,"10,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,4 phòng,5 tầng,,,,"5,3 m"
 38432326,Nhà biệt thự liền kề,Hà Đông,15/05/2024,200 m²,27 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,4 tầng,Tây - Nam,Tây - Nam,10 m,10 m
 39528499,Nhà riêng,Hà Đông,15/05/2024,32 m²,"4,38 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,,5 tầng,Tây - Nam,,,
 39234499,Nhà mặt phố,Đống Đa,15/05/2024,70 m²,425 triệu/m²,Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,
-39694673,Nhà riêng,,,,,,,,,,,,,
-39839075,Nhà riêng,,,,,,,,,,,,,
 39573815,Nhà riêng,Thanh Xuân,15/05/2024,60 m²,"8,1 tỷ",Sổ đỏ/ Sổ hồng,Tặng full nội thất cao cấp tiền tỷ.,4 phòng,,4 tầng,,,,
 39736326,Nhà riêng,Hai Bà Trưng,15/05/2024,44 m²,"11,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,6 tầng,,,,
 39520717,Nhà riêng,Nam Từ Liêm,11/05/2024,105 m²,42 tỷ,Sổ đỏ/ Sổ hồng,,20 phòng,20 phòng,9 tầng,,,15 m,7 m
@@ -281,7 +224,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852327,Nhà mặt phố,Ba Đình,15/05/2024,82 m²,"25,3 tỷ",Sổ đỏ,Cơ bản,4 phòng,6 phòng,4 tầng,,,15 m,4 m
 39420594,Nhà mặt phố,Nam Từ Liêm,15/05/2024,120 m²,30 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,
 39852209,Nhà riêng,Hai Bà Trưng,15/05/2024,40 m²,"7,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,3 m,"3,9 m"
-39361381,Nhà riêng,,,,,,,,,,,,,
 39847842,Nhà riêng,Long Biên,14/05/2024,33 m²,"4,35 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,3 phòng,4 phòng,5 tầng,,,,4 m
 39772068,Nhà riêng,Long Biên,07/05/2024,75 m²,"13,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,8 phòng,6 tầng,,,,7 m
 39852304,Nhà riêng,Cầu Giấy,15/05/2024,40 m²,10 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,,5 tầng,,,5 m,"3,8 m"
@@ -323,7 +265,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39668548,Nhà riêng,Nam Từ Liêm,15/05/2024,70 m²,"12,8 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
 39293667,Nhà mặt phố,Đống Đa,15/05/2024,290 m²,124 tỷ,,,,,9 tầng,,,,"7,8 m"
 39293592,Nhà mặt phố,Hà Đông,15/05/2024,93 m²,33 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,"5,5 m"
-34163211,Nhà mặt phố,,,,,,,,,,,,,
 39556080,Nhà riêng,Nam Từ Liêm,14/05/2024,106 m²,"34,5 tỷ",- Sổ sạch đẹp.,- 2 cửa vào nhà đều lắp cửa cuốn và khóa từ vân tay.,9 phòng,9 phòng,9 tầng,,,,
 39432256,Nhà mặt phố,Hà Đông,05/05/2024,200 m²,68 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,6 phòng,4 tầng,Tây - Nam,Tây - Nam,40 m,10 m
 39614982,Nhà riêng,Nam Từ Liêm,14/05/2024,100 m²,"25,5 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,6 phòng,5 tầng,,,15 m,"9,5 m"
@@ -366,7 +307,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852265,Nhà riêng,Thanh Xuân,15/05/2024,160 m²,32 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,5 phòng,5 tầng,,,6 m,"5,4 m"
 38118170,Nhà biệt thự liền kề,Hà Đông,15/05/2024,75 m²,"13,5 tỷ",Sổ đỏ,,6 phòng,5 phòng,5 tầng,,,12 m,5 m
 39712221,Nhà riêng,Hoài Đức,08/05/2024,35 m²,3 tỷ,Sổ đỏ/ Sổ hồng,"Đầy đủ Nội thất: Tủ bếp, cầu thang bằng gỗ Lim, cửa thông phòng nhôm kính Việt Pháp, dây điện Trần Phú, ống nhựa Tiền Phong, gạch ốp lát, thiết bị vệ sinh, hệ thống chiếu sáng, trần thạch cao, bồn nướ",3 phòng,4 phòng,5 tầng,,,,
-39610616,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39747817,Nhà riêng,Đống Đa,04/05/2024,70 m²,"15,5 tỷ",,,18 phòng,18 phòng,6 tầng,,,,
 39796790,Nhà biệt thự liền kề,Tây Hồ,09/05/2024,453 m²,204 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,6 phòng,3 tầng,,,,42 m
 39852104,Nhà riêng,Long Biên,15/05/2024,60 m²,"5,1 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,2 tầng,,,,6 m
@@ -390,7 +330,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39082087,Nhà mặt phố,Hai Bà Trưng,15/05/2024,61 m²,21 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,4 phòng,5 tầng,,,,"4,1 m"
 39831785,Nhà riêng,Nam Từ Liêm,13/05/2024,46 m²,"4,95 tỷ",+ Sổ chính chủ cất két sẵn sàng giao dịch.,Cơ bản,4 phòng,,,,,,
 39629063,Nhà biệt thự liền kề,Đông Anh,08/05/2024,68 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,2 phòng,4 tầng,Đông - Nam,Đông - Nam,40 m,8 m
-39249269,Nhà riêng,,,,,,,,,,,,,
 39373689,Nhà riêng,Nam Từ Liêm,10/05/2024,50 m²,"4,9 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,,,,,
 39841553,Nhà riêng,Cầu Giấy,14/05/2024,130 m²,13 tỷ,Sổ đỏ/ Sổ hồng,,10 phòng,,5 tầng,,,3 m,13 m
 38440080,Nhà biệt thự liền kề,Hoàng Mai,07/05/2024,73 m²,Thỏa thuận,Sổ đỏ.,,,,,,,,
@@ -419,14 +358,11 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 37419444,Nhà mặt phố,Hoàng Mai,13/05/2024,205 m²,54 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,2 phòng,2 phòng,1 tầng,,,50 m,"13,4 m"
 39754251,Nhà mặt phố,Cầu Giấy,15/05/2024,152 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,,12 m
 39840329,Nhà riêng,Đống Đa,13/05/2024,60 m²,10 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,"3,8 m"
-39821445,Nhà riêng,,,,,,,,,,,,,
 36557692,Nhà riêng,Long Biên,02/05/2024,49 m²,"4,55 tỷ",,,,,,,,,
 39796452,Nhà riêng,Long Biên,09/05/2024,50 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,4 phòng,6 tầng,,,,
 39689371,Nhà riêng,Hoàng Mai,13/05/2024,100 m²,"21,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,25 phòng,25 phòng,8 tầng,,,,12 m
 39720160,Nhà mặt phố,Cầu Giấy,15/05/2024,82 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,,5 m
-39697390,Nhà mặt phố,,,,,,,,,,,,,
 39671936,Nhà mặt phố,Nam Từ Liêm,15/05/2024,76 m²,"19,5 tỷ",,,,,,,,,"4,7 m"
-39726580,Nhà mặt phố,,,,,,,,,,,,,
 39735328,Nhà mặt phố,Cầu Giấy,15/05/2024,332 m²,160 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,85 phòng,,13 tầng,,,,12 m
 39668893,Nhà riêng,Nam Từ Liêm,15/05/2024,76 m²,"22,5 tỷ",Sổ đỏ chính chủ,,,,6 tầng,,,,5 m
 39752145,Nhà mặt phố,Thanh Xuân,15/05/2024,108 m²,42 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,6 phòng,7 tầng,,,40 m,6 m
@@ -450,7 +386,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39135435,Nhà mặt phố,Hai Bà Trưng,15/05/2024,71 m²,42 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ.,12 phòng,13 phòng,8 tầng,Bắc,Bắc,6 m,"3,8 m"
 39723200,Nhà riêng,Cầu Giấy,15/05/2024,65 m²,"13,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,11 phòng,7 tầng,,,3 m,
 39787820,Nhà riêng,Hai Bà Trưng,08/05/2024,75 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,30 phòng,30 phòng,4 tầng,Đông - Bắc,,5 m,"5,2 m"
-39852167,Nhà riêng,,,,,,,,,,,,,
 37734044,Nhà mặt phố,Hoàng Mai,15/05/2024,136 m²,20 tỷ,Sổ đỏ/ Sổ hồng.,,,,4 tầng,,,,6 m
 39723295,Nhà riêng,Đống Đa,01/05/2024,140 m²,30 tỷ,,,25 phòng,25 phòng,7 tầng,,,,"10,5 m"
 39852133,Nhà riêng,Hoàng Mai,15/05/2024,39 m²,"4,95 tỷ",Sổ đỏ/ Sổ hồng.,,2 phòng,1 phòng,2 tầng,,,,
@@ -462,14 +397,11 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852118,Nhà mặt phố,Thanh Xuân,15/05/2024,67 m²,"30,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,5 m
 39852129,Nhà riêng,Thanh Xuân,15/05/2024,122 m²,32 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,5 m
 38964695,Nhà riêng,Cầu Giấy,15/05/2024,36 m²,"5,1 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,5 phòng,5 tầng,,,,
-39766068,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39696041,Nhà mặt phố,Ba Đình,06/05/2024,89 m²,Thỏa thuận,Sổ đỏ,Đầy đủ,,,4 tầng,,,,"4,1 m"
 39590746,Nhà mặt phố,Cầu Giấy,06/05/2024,302 m²,170 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,10 tầng,,,,8 m
-39770539,Nhà riêng,,,,,,,,,,,,,
 39718342,Nhà mặt phố,Thanh Xuân,15/05/2024,100 m²,33 tỷ,"+ Pháp lý: Sổ đỏ phân lô vuông A4, (chủ đang để bank sẽ chủ động rút về khi có giao dịch).",Đầy đủ,5 phòng,4 phòng,4 tầng,,,12 m,"8,5 m"
 39852210,Nhà riêng,Thanh Xuân,15/05/2024,34 m²,"10,8 tỷ",Sổ đỏ/sổ hồng.,,,,5 tầng,,,,"6,3 m"
 39718477,Nhà mặt phố,Thanh Xuân,15/05/2024,82 m²,32 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,6 tầng,,,12 m,"4,3 m"
-39668516,Nhà riêng,,,,,,,,,,,,,
 39852201,Nhà riêng,Nam Từ Liêm,15/05/2024,38 m²,"3,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ sân phơi mỗi phòng 1 điều hòa + giường. Khách mua chỉ việc sách vali về ở. Sổ đỏ cất két sẵn sàng giao dịch.,3 phòng,3 phòng,3 tầng,Nam,Nam,3 m,4 m
 39831304,Nhà riêng,Long Biên,13/05/2024,35 m²,4 tỷ,,"Đã trang bị nội thất cơ bản, tiện nghi.",3 phòng,,4 tầng,,,,"5,2 m"
 39752235,Nhà riêng,Hai Bà Trưng,15/05/2024,45 m²,"6,15 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,,,3 m,7 m
@@ -478,13 +410,10 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39430174,Nhà riêng,Bắc Từ Liêm,15/05/2024,60 m²,"14,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,"4,4 m"
 39852196,Nhà biệt thự liền kề,Long Biên,15/05/2024,183 m²,"35,8 tỷ",,,,,,,,,10 m
 39430652,Nhà mặt phố,Ba Đình,14/05/2024,45 m²,"16,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,6 tầng,,,,7 m
-39852186,Nhà riêng,,,,,,,,,,,,,
 39852188,Nhà riêng,Đống Đa,15/05/2024,65 m²,"26,5 tỷ",,,5 phòng,7 phòng,8 tầng,,,,
 39244410,Nhà riêng,Hoàng Mai,10/05/2024,40 m²,"5,6 tỷ",Sổ đỏ/ Sổ hồng.,,4 phòng,,4 tầng,,,,4 m
 39472903,Nhà riêng,Tây Hồ,14/05/2024,90 m²,"18,2 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,5 tầng,,,,
 39851946,Nhà riêng,Tây Hồ,15/05/2024,73 m²,17 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,4 tầng,,,8 m,"3,5 m"
-39795961,Nhà riêng,,,,,,,,,,,,,
-39789895,Nhà riêng,,,,,,,,,,,,,
 39851945,Nhà riêng,Hai Bà Trưng,15/05/2024,"37,7 m²","4,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,,
 39594627,Nhà riêng,Cầu Giấy,15/05/2024,80 m²,"12,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,15 phòng,15 phòng,7 tầng,,,,"5,2 m"
 39851926,Nhà riêng,Đống Đa,15/05/2024,118 m²,"31,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,6 tầng,,,5 m,6 m
@@ -497,11 +426,8 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39472905,Nhà riêng,Long Biên,15/05/2024,140 m²,40 tỷ,Sổ đỏ/ Sổ hồng.,Đầy đủ.,5 phòng,5 phòng,4 tầng,,,7 m,7 m
 39852051,Nhà riêng,Nam Từ Liêm,15/05/2024,48 m²,"8,9 tỷ",Sổ đỏ/ Sổ hồng.,"Đầy đủ đầy đủ nội thất, điều hòa, nóng lạnh, giường tủ. Khách mua ở kết hợp cho thuê quá hợp lí.",6 phòng,7 phòng,6 tầng,,,"3,5 m","3,9 m"
 39851901,Nhà mặt phố,Đống Đa,15/05/2024,56 m²,25 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,5 phòng,5 phòng,5 tầng,,,8 m,"7,2 m"
-39851894,Nhà riêng,,,,,,,,,,,,,
 39674156,Nhà riêng,Tây Hồ,15/05/2024,192 m²,66 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,23 phòng,23 phòng,8 tầng,,,5 m,15 m
-38675989,Nhà mặt phố,,,,,,,,,,,,,
 39851890,Nhà riêng,Hoàng Mai,15/05/2024,26 m²,"4,38 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,4 phòng,4 tầng,,,2 m,"3,5 m"
-39109065,Nhà mặt phố,,,,,,,,,,,,,
 39851888,Nhà riêng,Thanh Xuân,15/05/2024,"40,2 m²","7,55 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,,
 39851819,Nhà riêng,Long Biên,15/05/2024,60 m²,6 tỷ,Sổ đỏ/ Sổ hồng.,,,,5 tầng,,,,"4,5 m"
 39715769,Nhà riêng,Hai Bà Trưng,14/05/2024,30 m²,"4,18 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,3 m,4 m
@@ -517,10 +443,8 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851788,Nhà riêng,Đống Đa,14/05/2024,170 m²,17 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,,,3 tầng,,,,14 m
 39851781,Nhà biệt thự liền kề,Đan Phượng,14/05/2024,90 m²,"9,78 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,4 tầng,,,60 m,5 m
 39852000,Nhà biệt thự liền kề,Long Biên,14/05/2024,257 m²,"69,9 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,6 phòng,,4 tầng,,,,9 m
-39753937,Nhà riêng,,,,,,,,,,,,,
 39851768,Nhà riêng,Hai Bà Trưng,14/05/2024,72 m²,"11,98 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,6 m,4 m
 39558561,Nhà mặt phố,Hoàn Kiếm,13/05/2024,400 m²,500 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,
-39821922,Nhà riêng,,,,,,,,,,,,,
 39852116,Nhà riêng,Hoàng Mai,15/05/2024,37 m²,"5,2 tỷ",Sổ đỏ/ Sổ hồng.,,3 phòng,4 phòng,5 tầng,,,,"4,5 m"
 39852111,Nhà riêng,Hai Bà Trưng,15/05/2024,32 m²,"5,9 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,5 tầng,,,"3,5 m",4 m
 39851765,Nhà riêng,Nam Từ Liêm,14/05/2024,"63,5 m²",8 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,4 tầng,,,,"4,1 m"
@@ -535,8 +459,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39852048,Nhà riêng,Hà Đông,15/05/2024,65 m²,"10,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,12 m,4 m
 39852049,Nhà riêng,Bắc Từ Liêm,15/05/2024,50 m²,"10,3 tỷ",Sổ đỏ/ Sổ hồng.,,5 phòng,8 phòng,6 tầng,,,,
 39852044,Nhà biệt thự liền kề,Cầu Giấy,15/05/2024,195 m²,64 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,Bắc,Bắc,5 m,9 m
-39852043,Nhà riêng,,,,,,,,,,,,,
-39852086,Nhà mặt phố,,,,,,,,,,,,,
 39752591,Nhà riêng,Đống Đa,15/05/2024,36 m²,"9,65 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,5 tầng,,,,"6,4 m"
 39640309,Nhà mặt phố,Bắc Từ Liêm,15/05/2024,216 m²,"38,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,5 phòng,5 tầng,,,16 m,"6,6 m"
 39609627,Nhà mặt phố,Cầu Giấy,15/05/2024,"63,8 m²","34,9 tỷ",Sổ đỏ/ Sổ hồng,Nội thất đầy đủ.,,,7 tầng,,,,"6,02 m"
@@ -596,7 +518,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39318507,Nhà riêng,Ba Đình,14/05/2024,52 m²,"9,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,,5 tầng,,,4 m,"3,6 m"
 38120267,Nhà biệt thự liền kề,Hà Đông,14/05/2024,100 m²,21 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,4 phòng,4 tầng,,,,
 39643435,Nhà mặt phố,Đống Đa,14/05/2024,185 m²,67 tỷ,Sổ đỏ,,4 phòng,4 phòng,4 tầng,,,,"7,4 m"
-38625225,Nhà riêng,,,,,,,,,,,,,
 36106151,Nhà riêng,Ba Đình,10/05/2024,50 m²,"16,5 tỷ",Sổ đỏ.,,4 phòng,4 phòng,5 tầng,Đông - Nam,,12 m,"5,7 m"
 39851676,Nhà riêng,Đống Đa,14/05/2024,55 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,6 tầng,,,,
 39735650,Nhà riêng,Ba Đình,14/05/2024,47 m²,"16,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,,4 tầng,,,,
@@ -609,7 +530,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39793917,Nhà riêng,Ba Đình,08/05/2024,66 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,9 phòng,7 tầng,,,,"5,76 m"
 39851893,Nhà riêng,Cầu Giấy,14/05/2024,91 m²,17 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,3 tầng,,,6 m,5 m
 39851914,Nhà riêng,Hà Đông,14/05/2024,32 m²,Thỏa thuận,Viết tay,Cơ bản,2 phòng,1 phòng,1 tầng,,,4 m,6 m
-39851648,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39037553,Nhà riêng,Ba Đình,14/05/2024,75 m²,21 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,5 phòng,5 tầng,,,,
 39851651,Nhà riêng,Long Biên,14/05/2024,30 m²,"3,78 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,,,5 tầng,Tây - Nam,Tây - Nam,"2,5 m","3,6 m"
 39447157,Nhà riêng,Ba Đình,14/05/2024,75 m²,21 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,5 phòng,5 tầng,,,,4 m
@@ -639,14 +559,11 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39646481,Nhà riêng,Thanh Xuân,20/04/2024,45 m²,"9,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,6 tầng,,,4 m,7 m
 39648166,Nhà riêng,Hoàng Mai,20/04/2024,45 m²,"5,4 tỷ",Sổ đỏ/ Sổ hồng.,,4 phòng,3 phòng,4 tầng,Đông - Bắc,,"2,5 m","5,8 m"
 39037259,Nhà biệt thự liền kề,Ba Đình,06/05/2024,288 m²,Thỏa thuận,,,,,5 tầng,,,,
-39830612,Nhà riêng,,,,,,,,,,,,,
 39647805,Nhà riêng,Thanh Xuân,14/05/2024,50 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,9 phòng,9 phòng,6 tầng,,,"1,5 m",
 39851388,Nhà riêng,Đông Anh,14/05/2024,54 m²,10 tỷ,,,,,7 tầng,,,,"4,05 m"
 39830683,Nhà riêng,Đống Đa,12/05/2024,20 m²,"3,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,3 phòng,4 tầng,,,,
-39851377,Nhà riêng,,,,,,,,,,,,,
 39851367,Nhà riêng,Bắc Từ Liêm,14/05/2024,35 m²,"4,5 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ,3 phòng,3 phòng,4 tầng,,,"2,5 m",5 m
 39715909,Nhà riêng,Cầu Giấy,14/05/2024,35 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
-39698927,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39824840,Nhà riêng,Thanh Xuân,11/05/2024,48 m²,"11,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,4 tầng,Đông - Nam,Đông - Nam,5 m,"3,8 m"
 39721970,Nhà mặt phố,Hoàn Kiếm,11/05/2024,60 m²,78 tỷ,Sổ đỏ/ Sổ hồng,,12 phòng,13 phòng,7 tầng,,,10 m,"4,5 m"
 39824838,Nhà riêng,Thanh Xuân,11/05/2024,38 m²,6 tỷ,Sổ đỏ chính chủ vuông vắn. Pháp lý rõ ràng.,Đầy đủ,6 phòng,4 phòng,5 tầng,,,,"3,4 m"
@@ -661,7 +578,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39743752,Nhà riêng,Thường Tín,14/05/2024,80 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,5 phòng,3 phòng,2 tầng,Đông - Bắc,Đông - Bắc,4 m,4 m
 39735882,Nhà riêng,Cầu Giấy,13/05/2024,325 m²,57 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,74 phòng,50 phòng,8 tầng,,,,12 m
 39851342,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,143 m²,35 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,5 tầng,,,10 m,16 m
-39694700,Nhà riêng,,,,,,,,,,,,,
 39572160,Nhà riêng,Hai Bà Trưng,14/05/2024,100 m²,"22,5 tỷ",,,,,5 tầng,,,,6 m
 39306368,Nhà mặt phố,Hoàn Kiếm,10/05/2024,90 m²,72 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,8 phòng,3 tầng,,,15 m,"3,7 m"
 39725913,Nhà riêng,Thanh Xuân,14/05/2024,36 m²,"4,7 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,,4 tầng,,,2 m,"5,8 m"
@@ -676,18 +592,13 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851707,Nhà riêng,Bắc Từ Liêm,14/05/2024,"54,5 m²","4,6 tỷ",Sổ đỏ/ Sổ hồng.,,,,,,,,3 m
 39823270,Nhà riêng,Đống Đa,11/05/2024,25 m²,"5,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,3 tầng,,,,34 m
 36577099,Nhà biệt thự liền kề,Đông Anh,12/05/2024,70 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,,5 phòng,6 phòng,,,,,
-39571018,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39851673,Nhà mặt phố,Hai Bà Trưng,14/05/2024,84 m²,36 tỷ,Sổ đỏ/ Sổ hồng,,2 phòng,2 phòng,2 tầng,,,,"5,4 m"
-38161048,Nhà mặt phố,,,,,,,,,,,,,
 39720300,Nhà riêng,Đống Đa,10/05/2024,34 m²,"4,25 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,3 m,31 m
 37136493,Nhà mặt phố,Tây Hồ,12/05/2024,28 m²,"5,6 tỷ",Sổ đỏ/ Sổ hồng,,2 phòng,2 phòng,2 tầng,,,8 m,3 m
 39830918,Nhà riêng,Bắc Từ Liêm,12/05/2024,36 m²,"5,45 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,3 m,"5,9 m"
-39851334,Nhà riêng,,,,,,,,,,,,,
 38283098,Nhà riêng,Hoàng Mai,14/05/2024,85 m²,11 tỷ,Sổ đỏ/ Sổ hồng.,Đầy đủ.,5 phòng,4 phòng,5 tầng,,,,5 m
-39851331,Nhà riêng,,,,,,,,,,,,,
 39851330,Nhà riêng,Cầu Giấy,14/05/2024,80 m²,"21,4 tỷ",Sổ đỏ/ Sổ hồng,,,,5 tầng,,,15 m,"5,5 m"
 39670339,Nhà riêng,Hoàng Mai,23/04/2024,50 m²,"6,48 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,4 phòng,4 tầng,,,"2,5 m",4 m
-39851323,Nhà riêng,,,,,,,,,,,,,
 39851324,Nhà mặt phố,Thanh Xuân,14/05/2024,90 m²,30 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,7 phòng,5 tầng,,,,5 m
 39851322,Nhà riêng,Đông Anh,14/05/2024,"76,3 m²","4,95 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,3 tầng,,,5 m,"4,5 m"
 39715421,Nhà mặt phố,Hai Bà Trưng,14/05/2024,600 m²,96 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,8 phòng,8 phòng,4 tầng,Đông,Đông,13 m,"8,5 m"
@@ -704,11 +615,9 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851297,Nhà riêng,Hoàng Mai,14/05/2024,40 m²,"5,93 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,4 tầng,,,,"4,5 m"
 39751687,Nhà riêng,Bắc Từ Liêm,14/05/2024,50 m²,"5,6 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,,
 39441009,Nhà riêng,Long Biên,12/05/2024,30 m²,"2,95 tỷ",Đã có sổ.,Cơ bản,,,5 tầng,Đông - Bắc,Đông - Bắc,2 m,
-38560190,Nhà riêng,,,,,,,,,,,,,
 39778319,Nhà riêng,Hà Đông,07/05/2024,50 m²,"9,45 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,4 m
 38700980,Nhà riêng,Hoài Đức,14/05/2024,30 m²,Thỏa thuận,,,3 phòng,,,,,,
 39679726,Nhà biệt thự liền kề,Hà Đông,09/05/2024,50 m²,"11,3 tỷ",Sổ đỏ/ Sổ hồng,,,,7 tầng,,,,"5,5 m"
-39517782,Nhà riêng,,,,,,,,,,,,,
 38700996,Nhà riêng,Hoài Đức,14/05/2024,36 m²,Thỏa thuận,,,4 phòng,4 phòng,5 tầng,,,,
 39851276,Nhà riêng,Đống Đa,14/05/2024,55 m²,"13,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,,4 tầng,,,,"4,5 m"
 39851274,Nhà riêng,Ba Đình,14/05/2024,60 m²,"25,5 tỷ",,,,,6 tầng,,,,6 m
@@ -722,7 +631,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39830817,Nhà riêng,Cầu Giấy,12/05/2024,55 m²,15 tỷ,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,
 39840798,Nhà riêng,Hai Bà Trưng,14/05/2024,45 m²,Thỏa thuận,,Đầy đủ,4 phòng,4 phòng,4 tầng,,,8 m,3 m
 39346074,Nhà riêng,Bắc Từ Liêm,06/05/2024,50 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,2 phòng,,3 tầng,,,3 m,"3,9 m"
-39824688,Nhà mặt phố,,,,,,,,,,,,,
 39851510,Nhà mặt phố,Đống Đa,14/05/2024,55 m²,"23,48 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,7 phòng,8 tầng,Đông - Bắc,Đông - Bắc,10 m,"4,2 m"
 39851500,Nhà riêng,Cầu Giấy,14/05/2024,60 m²,"13,6 tỷ",Sổ đỏ/ Sổ hồng,,,,3 tầng,,,6 m,5 m
 39720695,Nhà biệt thự liền kề,Hà Đông,14/05/2024,100 m²,"13,8 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,5 m
@@ -769,15 +677,10 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39423764,Nhà riêng,Long Biên,14/05/2024,65 m²,"5,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,5 phòng,4 tầng,,,,"5,3 m"
 39851396,Nhà riêng,Tây Hồ,14/05/2024,49 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,,5 tầng,Tây - Bắc,Tây - Nam,"2,5 m",4 m
 39851121,Nhà riêng,Tây Hồ,14/05/2024,68 m²,"8,95 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,5 tầng,,,,"4,2 m"
-39571965,Nhà riêng,,,,,,,,,,,,,
-39693616,Nhà mặt phố,,,,,,,,,,,,,
-39851391,Nhà riêng,,,,,,,,,,,,,
 39012517,Nhà mặt phố,Hai Bà Trưng,06/05/2024,80 m²,"16,6 tỷ",,,,,,Tây - Bắc,,,"4,5 m"
 39693683,Nhà riêng,Hà Đông,08/05/2024,31 m²,"2,05 tỷ",,,,,3 tầng,,,,
 39851381,Nhà riêng,Long Biên,14/05/2024,82 m²,"12,5 tỷ",Sổ đỏ,,,,3 tầng,,,,18 m
-39820250,Nhà riêng,,,,,,,,,,,,,
 39822132,Nhà riêng,Hà Đông,11/05/2024,34 m²,"2,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,3 tầng,,,,
-39851380,Nhà riêng,,,,,,,,,,,,,
 39557450,Nhà riêng,Hoàng Mai,12/05/2024,68 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ.,,,,,,4 m,4 m
 39851463,Nhà riêng,Đống Đa,14/05/2024,36 m²,"7,89 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,Tây - Bắc,Tây - Bắc,5 m,"4,5 m"
 39769148,Nhà riêng,Cầu Giấy,06/05/2024,40 m²,"6,5 tỷ",,,,,,,,,
@@ -788,18 +691,14 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851167,Nhà riêng,Thanh Xuân,14/05/2024,60 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,,4 tầng,,,,"7,8 m"
 39844998,Nhà riêng,Hà Đông,14/05/2024,60 m²,"8,7 tỷ",,,,,,,,,
 39851445,Nhà mặt phố,Cầu Giấy,14/05/2024,45 m²,"10,8 tỷ",,,,,,,,,
-39582357,Nhà riêng,,,,,,,,,,,,,
-39851444,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39851443,Nhà riêng,Tây Hồ,14/05/2024,69 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,,4 tầng,Đông - Bắc,Đông - Nam,"2,5 m",4 m
 39816928,Nhà riêng,Đống Đa,10/05/2024,74 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,"4,2 m"
 39189050,Nhà riêng,Bắc Từ Liêm,14/05/2024,31 m²,"3,5 tỷ",,,4 phòng,4 phòng,5 tầng,,,,
-39710685,Nhà riêng,,,,,,,,,,,,,
 39839420,Nhà biệt thự liền kề,Long Biên,13/05/2024,88 m²,"19,8 tỷ",Sổ đỏ/ Sổ hồng,"Đầy đủ cầu thang gỗ, nội thất xịn Châu Âu.",4 phòng,8 phòng,7 tầng,Đông - Nam,Đông - Nam,12 m,4 m
 39851427,Nhà riêng,Long Biên,14/05/2024,50 m²,"5,8 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,4 phòng,4 phòng,4 tầng,Đông - Bắc,,6 m,"5,5 m"
 39851146,Nhà riêng,Đống Đa,14/05/2024,52 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,"4,2 m"
 39673202,Nhà riêng,Nam Từ Liêm,14/05/2024,56 m²,"7,75 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,8 phòng,7 tầng,,,,
 39851086,Nhà riêng,Đống Đa,14/05/2024,50 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,6 phòng,7 tầng,,,,"4,3 m"
-39851083,Nhà riêng,,,,,,,,,,,,,
 39840581,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,84 m²,13 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,4 phòng,5 phòng,4 tầng,,,13 m,6 m
 39427383,Nhà biệt thự liền kề,Hoài Đức,10/05/2024,210 m²,"166,5 triệu/m²",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,3 tầng,Đông - Nam,,,
 39845503,Nhà riêng,Hoài Đức,14/05/2024,40 m²,"1,55 tỷ",Sổ đỏ,,2 phòng,1 phòng,2 tầng,Đông - Nam,,"2,5 m","4,75 m"
@@ -821,7 +720,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39818829,Nhà mặt phố,Đống Đa,11/05/2024,65 m²,"24,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,7 phòng,6 phòng,5 tầng,,,,5 m
 39594204,Nhà riêng,Thanh Xuân,06/05/2024,65 m²,"18,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,11 phòng,7 phòng,7 tầng,,,,4 m
 39649989,Nhà riêng,Hoàng Mai,14/05/2024,35 m²,"4,05 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,4 phòng,4 tầng,,,,6 m
-35568867,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39819070,Nhà riêng,Thanh Xuân,11/05/2024,41 m²,"6,7 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,4 tầng,,,,"5,5 m"
 39790964,Nhà riêng,Hai Bà Trưng,08/05/2024,50 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,,5 m
 39512648,Nhà riêng,Thanh Xuân,09/05/2024,"144,3 m²",120 triệu/m²,Sổ đỏ/ Sổ hồng,Không nội thất,6 phòng,2 phòng,3 tầng,Tây,Tây,5 m,8 m
@@ -877,11 +775,9 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851270,Nhà riêng,Hai Bà Trưng,14/05/2024,80 m²,"15,1 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,6 phòng,7 tầng,,,6 m,5 m
 39824518,Nhà riêng,Đống Đa,11/05/2024,85 m²,"24,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,19 phòng,20 phòng,8 tầng,Đông,Tây - Nam,4 m,"6,5 m"
 39795308,Nhà riêng,Hoài Đức,09/05/2024,40 m²,"6,85 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,5 phòng,6 tầng,Bắc,Bắc,7 m,"3,8 m"
-39726558,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39851012,Shophouse/Nhà phố thương mại,Nam Từ Liêm,14/05/2024,216 m²,35 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,8 phòng,5 tầng,Đông,Nam,40 m,8 m
 38905092,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,320 m²,85 triệu/m²,,,,,,,,,
 38922816,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,200 m²,200 triệu/m²,,,,,,,,,
-39639064,Nhà riêng,,,,,,,,,,,,,
 39698632,Nhà riêng,Hai Bà Trưng,09/05/2024,35 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ.,5 phòng,,5 tầng,,,,
 38123001,Nhà riêng,Hai Bà Trưng,14/05/2024,42 m²,"10,4 tỷ",Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,
 39829186,Nhà riêng,Bắc Từ Liêm,12/05/2024,30 m²,5 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,,,5 tầng,,,,"4,7 m"
@@ -905,7 +801,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39111091,Nhà riêng,Bắc Từ Liêm,06/05/2024,99 m²,"17,3 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,6 phòng,5 tầng,,,,
 39739925,Nhà mặt phố,Hai Bà Trưng,14/05/2024,75 m²,"33,5 tỷ",Sổ đỏ/ Sổ hồng,,1 phòng,,2 tầng,,,30 m,"5,2 m"
 39850985,Nhà riêng,Đống Đa,14/05/2024,45 m²,"16,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,"6,2 m"
-39851241,Nhà riêng,,,,,,,,,,,,,
 39850981,Nhà mặt phố,Hoàng Mai,14/05/2024,97 m²,"13,5 tỷ",,,4 phòng,3 phòng,4 tầng,,,,5 m
 39851235,Nhà riêng,Hai Bà Trưng,14/05/2024,85 m²,"15,05 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,6 phòng,6 tầng,,,6 m,6 m
 39851234,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,65 m²,"13,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,4 m
@@ -921,9 +816,7 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39786319,Nhà riêng,Hai Bà Trưng,08/05/2024,"33,5 m²","5,1 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,3 m,
 37399613,Nhà riêng,Hà Đông,14/05/2024,31 m²,Thỏa thuận,Sổ đỏ,Cơ bản,4 phòng,,6 tầng,,,5 m,
 39830582,Nhà biệt thự liền kề,Hoàng Mai,12/05/2024,400 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ.,6 phòng,6 phòng,4 tầng,Đông - Bắc,,13 m,20 m
-39396297,Nhà mặt phố,,,,,,,,,,,,,
 39494727,Nhà riêng,Đống Đa,14/05/2024,"61,1 m²","16,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,5 phòng,,5 tầng,,,6 m,
-39851223,Nhà riêng,,,,,,,,,,,,,
 39840052,Nhà riêng,Tây Hồ,13/05/2024,65 m²,"8,9 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,4 phòng,5 tầng,,,2 m,4 m
 37729041,Nhà riêng,Hà Đông,14/05/2024,48 m²,"6,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,1 phòng,,1 tầng,,,6 m,4 m
 39851218,Nhà riêng,Đống Đa,14/05/2024,39 m²,"5,58 tỷ",Sổ đỏ,,,,4 tầng,,,,"3,1 m"
@@ -950,7 +843,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39309185,Nhà riêng,Ba Đình,14/05/2024,156 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,5 phòng,,5 tầng,,,,7 m
 39457941,Nhà riêng,Cầu Giấy,10/05/2024,90 m²,"23,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,32 phòng,33 phòng,9 tầng,,,"2,5 m","7,5 m"
 39787765,Nhà riêng,Hai Bà Trưng,08/05/2024,120 m²,21 tỷ,Sổ đỏ/ Sổ hồng,,31 phòng,31 phòng,6 tầng,,,3 m,10 m
-39840358,Nhà riêng,,,,,,,,,,,,,
 39850884,Nhà riêng,Đống Đa,14/05/2024,32 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,6 tầng,,,50 m,"3,1 m"
 36861684,Nhà riêng,Cầu Giấy,10/05/2024,52 m²,18 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,6 phòng,7 tầng,,,7 m,"4,5 m"
 39820294,Nhà riêng,Cầu Giấy,11/05/2024,50 m²,12 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,5 phòng,6 tầng,,,6 m,4 m
@@ -964,8 +856,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851183,Nhà riêng,Hai Bà Trưng,14/05/2024,79 m²,"11,8 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,,"3,8 m"
 21228323,Nhà riêng,Thanh Xuân,08/05/2024,56 m²,"8,8 tỷ","* Sổ đỏ chính chủ, riêng biệt, pháp lý rõ ràng, không tranh chấp. Giấy phép xây dựng, hồ sơ thiết kế, Sơ đồ điện nước đầy đủ.","Đầy đủ nội thất giường tủ, điều hòa, nóng lạnh, thang máy xịn nhập ngoại tốc độ cao.",14 phòng,14 phòng,8 tầng,,,3 m,
 39817184,Nhà biệt thự liền kề,Tây Hồ,11/05/2024,230 m²,60 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,Nam,Bắc,15 m,10 m
-39851177,Nhà riêng,,,,,,,,,,,,,
-39321565,Nhà riêng,,,,,,,,,,,,,
 39817065,Nhà riêng,Thanh Xuân,10/05/2024,40 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,,"3,3 m"
 39777780,Nhà riêng,Cầu Giấy,07/05/2024,50 m²,"14,6 tỷ",Sổ đỏ/ Sổ hồng,,,,7 tầng,,,,
 39851173,Nhà mặt phố,Đống Đa,14/05/2024,50 m²,34 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,"6,6 m"
@@ -992,7 +882,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39840446,Nhà riêng,Thanh Xuân,13/05/2024,34 m²,"7,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,5 m,6 m
 39808362,Nhà riêng,Hoài Đức,10/05/2024,36 m²,"3,4 tỷ",,,,,4 tầng,,,"2,5 m",4 m
 39796694,Nhà mặt phố,Hai Bà Trưng,09/05/2024,78 m²,"44,9 tỷ",,,,,7 tầng,,,,
-39512479,Nhà riêng,,,,,,,,,,,,,
 39777828,Nhà riêng,Cầu Giấy,07/05/2024,30 m²,"5,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,,
 39850853,Nhà riêng,Ba Đình,14/05/2024,70 m²,25 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,12 m,"5,5 m"
 39851111,Nhà riêng,Thanh Xuân,14/05/2024,"99,7 m²","17,8 tỷ",Sổ đỏ/sổ hồng.,Nội thất đầy đủ.,24 phòng,,7 tầng,,,,"5,3 m"
@@ -1018,12 +907,10 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851103,Nhà riêng,Nam Từ Liêm,14/05/2024,30 m²,"4,75 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,5 tầng,,,,
 39850872,Nhà riêng,Nam Từ Liêm,14/05/2024,36 m²,"5,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,3 m,4 m
 39550927,Nhà mặt phố,Hà Đông,14/05/2024,71 m²,"19,2 tỷ",Sổ đỏ/ Sổ hồng,Nội thất đáng tiền tỷ.,,,,,,,
-39475790,Nhà biệt thự liền kề,,,,,,,,,,,,,
 39810590,Nhà biệt thự liền kề,Hà Đông,10/05/2024,95 m²,"17,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,7 phòng,6 phòng,5 tầng,Đông - Nam,,7 m,5 m
 39851095,Nhà mặt phố,Hoàng Mai,14/05/2024,40 m²,"4,9 tỷ",Sổ đỏ,,2 phòng,3 phòng,3 tầng,,,,
 39850851,Nhà riêng,Hà Đông,14/05/2024,50 m²,"9,5 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,,5 tầng,,,,
 39440856,Nhà mặt phố,Hoàng Mai,14/05/2024,50 m²,9 tỷ,Sổ đỏ.,,,,,,,,"3,5 m"
-39851092,Nhà riêng,,,,,,,,,,,,,
 39851090,Nhà riêng,Thanh Xuân,14/05/2024,"95,7 m²",17 tỷ,Sổ đỏ/sổ hồng.,Nội thất đầy đủ.,27 phòng,,,Nam,,3 m,"5,4 m"
 39607386,Nhà riêng,Hà Đông,09/05/2024,"35,3 m²","3,6 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,,,,
 39795334,Nhà riêng,Cầu Giấy,08/05/2024,70 m²,"11,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,,"4,5 m"
@@ -1043,7 +930,6 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39844901,Nhà riêng,Đống Đa,14/05/2024,38 m²,"5,6 tỷ",Sổ đỏ,,4 phòng,3 phòng,4 tầng,,,,3 m
 39835762,Nhà riêng,Cầu Giấy,13/05/2024,32 m²,10 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,6 tầng,,,4 m,"4,7 m"
 39369568,Nhà riêng,Cầu Giấy,10/05/2024,90 m²,"23,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,32 phòng,32 phòng,9 tầng,,,,"7,5 m"
-39851066,Nhà mặt phố,,,,,,,,,,,,,
 38024910,Nhà riêng,Bắc Từ Liêm,14/05/2024,42 m²,"4,7 tỷ",Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,"4,9 m"
 39668428,Nhà riêng,Thanh Xuân,13/05/2024,55 m²,"9,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,6 tầng,,,,5 m
 39850818,Nhà riêng,Hoài Đức,14/05/2024,50 m²,"4,55 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,4 phòng,4 tầng,Tây - Bắc,Tây - Bắc,3 m,"4,8 m"
@@ -1071,3 +957,649 @@ pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_be
 39851037,Nhà riêng,Hà Đông,14/05/2024,72 m²,"7,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,10 m,4 m
 39851034,Nhà riêng,Hai Bà Trưng,14/05/2024,75 m²,"17,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,6 tầng,,,8 m,6 m
 39851040,Nhà riêng,Hai Bà Trưng,14/05/2024,90 m²,17 tỷ,,,6 phòng,6 phòng,5 tầng,,,12 m,6 m
+39773881,Nhà riêng,Hoàng Mai,07/05/2024,75 m²,"8,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,4 phòng,4 phòng,4 tầng,,,5 m,5 m
+39850786,Nhà riêng,Hai Bà Trưng,14/05/2024,36 m²,"5,15 tỷ",,,5 phòng,5 phòng,5 tầng,,,,
+39795092,Nhà riêng,Ba Đình,08/05/2024,95 m²,"20,5 tỷ",Sổ đỏ,Đầy đủ,6 phòng,6 phòng,6 tầng,,,5 m,5 m
+39607552,Nhà riêng,Hà Đông,13/05/2024,"30,9 m²","3,4 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,,,,
+39524330,Nhà riêng,Cầu Giấy,14/05/2024,49 m²,"8,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,,6 tầng,,,"2,8 m",4 m
+38958282,Nhà riêng,Cầu Giấy,14/05/2024,38 m²,"5,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,"2,5 m","3,6 m"
+39016580,Nhà riêng,Hoàng Mai,14/05/2024,45 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,6 tầng,Đông,Đông,8 m,4 m
+39839193,Nhà riêng,Chương Mỹ,13/05/2024,31 m²,"1,75 tỷ",,,,,3 tầng,,,,
+39648993,Nhà mặt phố,Tây Hồ,02/05/2024,70 m²,62 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,
+39850676,Nhà riêng,Quốc Oai,14/05/2024,272 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,,,,3 tầng,,,,
+39850918,Nhà riêng,Hoàng Mai,14/05/2024,61 m²,11 tỷ,,,2 phòng,2 phòng,3 tầng,,,,
+39511593,Nhà mặt phố,Long Biên,06/05/2024,"153,5 m²","12,5 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,1 phòng,1 tầng,Tây,,8 m,7 m
+39467344,Nhà riêng,Thanh Xuân,14/05/2024,52 m²,"9,3 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,5 phòng,5 phòng,5 tầng,Tây - Nam,Tây - Nam,3 m,"4,9 m"
+39727030,Nhà mặt phố,Thanh Xuân,09/05/2024,164 m²,55 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,5 phòng,5 tầng,Nam,Nam,15 m,"8,1 m"
+39683750,Nhà riêng,Nam Từ Liêm,10/05/2024,37 m²,3 tỷ,,,3 phòng,,3 tầng,,,,
+39807459,Nhà riêng,Nam Từ Liêm,10/05/2024,38 m²,"134,21 triệu/m²",,,4 phòng,3 phòng,4 tầng,,,,
+39850666,Nhà riêng,Cầu Giấy,14/05/2024,48 m²,"13,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,5 tầng,,,7 m,4 m
+39672889,Nhà riêng,Hà Đông,06/05/2024,"41,2 m²","2,25 tỷ",,Nhà có nội thất cơ bản.,4 phòng,3 phòng,3 tầng,,,,
+39723662,Nhà riêng,Đống Đa,14/05/2024,55 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,6 phòng,7 tầng,Tây - Bắc,Tây - Bắc,7 m,5 m
+39614492,Nhà riêng,Cầu Giấy,14/05/2024,100 m²,43 tỷ,Sổ đỏ/ Sổ hồng,,7 phòng,8 phòng,8 tầng,Tây - Nam,Tây - Nam,6 m,"7,5 m"
+39690432,Nhà riêng,Đống Đa,06/05/2024,60 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,4 phòng,3 phòng,4 tầng,,,,"4,5 m"
+39526325,Nhà riêng,Nam Từ Liêm,14/05/2024,40 m²,10 tỷ,Sổ đỏ/ Sổ hồng,"Đầy đủ - Chủ nhà xác định ở lâu dài nên xây dựng tỷ mỉ, cẩn thận và đầu tư toàn đồ sang, xịn cho ngôi nhà. Sàn nhà và cầu thang đều sử dụng gỗ thịt, toàn bộ cửa đều bằng gỗ lim. Thiết bị vệ sinh nhập.",3 phòng,4 phòng,5 tầng,Đông - Nam,Đông - Nam,4 m,"3,6 m"
+39765249,Nhà riêng,Long Biên,06/05/2024,40 m²,"5,65 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,6 tầng,Tây - Bắc,Tây - Bắc,"3,5 m",4 m
+39802308,Nhà riêng,Thanh Xuân,09/05/2024,85 m²,"8,8 tỷ",Sổ đỏ/ Sổ hồng,,7 phòng,6 phòng,4 tầng,,,,"4,6 m"
+39783407,Nhà riêng,Long Biên,07/05/2024,142 m²,14 tỷ,Sổ đỏ.,,6 phòng,12 phòng,5 tầng,,,5 m,"6,3 m"
+34335695,Nhà riêng,Sóc Sơn,14/05/2024,110 m²,"1,7 tỷ",Sổ đỏ/ sổ hồng,,,,3 tầng,,,,
+39659999,Nhà riêng,Thanh Xuân,13/05/2024,85 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,4 tầng,,,,"7,5 m"
+39744465,Nhà riêng,Đống Đa,14/05/2024,80 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,8 phòng,5 tầng,Đông - Nam,Đông - Nam,5 m,"5,5 m"
+39663018,Nhà riêng,Thanh Xuân,13/05/2024,80 m²,"7,65 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,5 tầng,,,,"3,5 m"
+39752372,Nhà riêng,Cầu Giấy,14/05/2024,35 m²,"5,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,Bắc,Bắc,3 m,4 m
+39371015,Nhà riêng,Hoàng Mai,14/05/2024,48 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,6 phòng,6 phòng,6 tầng,,,,
+39706493,Nhà riêng,Tây Hồ,08/05/2024,45 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,5 tầng,Đông - Nam,Đông - Nam,"2,5 m",4 m
+39850896,Nhà mặt phố,Tây Hồ,14/05/2024,75 m²,20 tỷ,,,4 phòng,,4 tầng,,,,6 m
+39741615,Nhà riêng,Ba Đình,14/05/2024,45 m²,16 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,6 phòng,7 tầng,,,5 m,"4,2 m"
+39822146,Nhà riêng,Ba Đình,11/05/2024,65 m²,"17,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,14 phòng,29 phòng,9 tầng,Tây - Nam,Tây - Nam,4 m,"4,5 m"
+39816984,Nhà riêng,Ba Đình,10/05/2024,35 m²,"6,25 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,Nam,Nam,3 m,"4,3 m"
+39850892,Nhà riêng,Hai Bà Trưng,14/05/2024,50 m²,"10,68 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,10 phòng,6 tầng,,,,"4,5 m"
+39752216,Nhà riêng,Cầu Giấy,04/05/2024,65 m²,17 tỷ,,Đầy đủ,13 phòng,13 phòng,8 tầng,Đông - Nam,Đông - Nam,5 m,"5,2 m"
+38009610,Nhà riêng,Cầu Giấy,14/05/2024,50 m²,10 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,4 phòng,4 tầng,,,7 m,
+30363363,Nhà biệt thự liền kề,Hà Đông,11/05/2024,196 m²,33 tỷ,,,,,,,,,
+39673260,Nhà riêng,Ba Đình,04/05/2024,50 m²,12 tỷ,Sổ đỏ/ Sổ hồng,"Đầy đủ có bàn ghế, tủ bếp, điều hòa, nóng lạnh, rèm cửa thiết bị wc đầy đủ.",6 phòng,6 phòng,7 tầng,Đông - Nam,Đông - Nam,3 m,"4,2 m"
+39789190,Nhà riêng,Đống Đa,08/05/2024,60 m²,"15,7 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,5 phòng,5 tầng,,,6 m,"5,1 m"
+39783188,Nhà riêng,Tây Hồ,07/05/2024,34 m²,"5,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,5 tầng,Đông - Nam,Đông - Nam,"2,5 m","3,5 m"
+39794665,Nhà riêng,Long Biên,08/05/2024,93 m²,"9,6 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,"6,5 m",5 m
+39779110,Nhà riêng,Nam Từ Liêm,07/05/2024,60 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,"2,8 m",5 m
+39782659,Nhà riêng,Đống Đa,07/05/2024,32 m²,"4,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,4 tầng,Nam,Nam,3 m,"3,5 m"
+39583641,Nhà riêng,Hà Đông,08/05/2024,35 m²,"2,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,4 tầng,Đông - Nam,Đông - Nam,"2,5 m",4 m
+39724624,Nhà mặt phố,Cầu Giấy,14/05/2024,38 m²,14 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,7 tầng,,,6 m,"3,7 m"
+39850858,Nhà riêng,Cầu Giấy,14/05/2024,30 m²,"5,4 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,5 tầng,Đông - Nam,Đông - Nam,2 m,
+39439480,Nhà riêng,Hoài Đức,09/05/2024,38 m²,"2,36 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,,,Nam,,2 m,"3,2 m"
+39820115,Nhà mặt phố,Cầu Giấy,11/05/2024,90 m²,37 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,5 tầng,,,15 m,5 m
+39652055,Nhà biệt thự liền kề,Nam Từ Liêm,09/05/2024,160 m²,90 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,Đông - Nam,Đông - Nam,13 m,"24,09 m"
+39850373,Nhà mặt phố,Hai Bà Trưng,14/05/2024,138 m²,42 tỷ,Sổ đỏ/ Sổ hồng,,2 phòng,2 phòng,2 tầng,,,7 m,"4,3 m"
+39646899,Shophouse/Nhà phố thương mại,Long Biên,12/05/2024,"130,7 m²",34 tỷ,Sổ đỏ/ Sổ hồng.,,4 phòng,5 phòng,5 tầng,Đông - Bắc,Đông - Bắc,31 m,"7,5 m"
+39729685,Nhà biệt thự liền kề,Long Biên,09/05/2024,183 m²,31 tỷ,Sổ đỏ/ Sổ hồng.,Cơ bản.,4 phòng,3 phòng,4 tầng,Đông - Nam,Đông - Nam,"13,5 m","13,3 m"
+39818843,Nhà riêng,Hà Đông,11/05/2024,33 m²,"2,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,Tây - Nam,Tây - Nam,"2,5 m",4 m
+39850567,Nhà riêng,Thanh Xuân,14/05/2024,60 m²,"9,8 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,6 phòng,4 tầng,,,,"4,5 m"
+39400394,Nhà riêng,Long Biên,09/05/2024,55 m²,"4,69 tỷ",,,3 phòng,,,,,,"3,8 m"
+39767165,Nhà riêng,Cầu Giấy,06/05/2024,60 m²,"9,3 tỷ",,,,,5 tầng,,,,
+39575503,Nhà biệt thự liền kề,Hà Đông,14/05/2024,87 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Không nội thất,6 phòng,4 phòng,5 tầng,Đông - Nam,,16 m,5 m
+39291389,Nhà biệt thự liền kề,Hà Đông,09/05/2024,80 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Không nội thất,4 phòng,4 phòng,4 tầng,Đông - Bắc,,12 m,"4,5 m"
+39525020,Nhà biệt thự liền kề,Hà Đông,10/05/2024,90 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,5 tầng,Đông - Bắc,,13 m,"4,5 m"
+39772026,Nhà riêng,Cầu Giấy,07/05/2024,30 m²,"5,6 tỷ",,,,,,,,,
+39850451,Nhà riêng,Cầu Giấy,14/05/2024,40 m²,"7,6 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,,5 tầng,,,,
+38494686,Nhà biệt thự liền kề,Hà Đông,09/05/2024,91 m²,Thỏa thuận,Hợp đồng mua bán,,4 phòng,5 phòng,6 tầng,,,"11,5 m","5,2 m"
+39742428,Nhà biệt thự liền kề,Tây Hồ,14/05/2024,340 m²,440 triệu/m²,Sổ đỏ/ Sổ hồng,Không nội thất,,,3 tầng,Tây,,40 m,12 m
+39850414,Nhà riêng,Long Biên,14/05/2024,41 m²,"4,18 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,"4,5 m",4 m
+39824901,Nhà riêng,Ba Đình,13/05/2024,45 m²,"9,5 tỷ",Sổ đỏ,Đầy đủ,,,,,,,
+39284497,Nhà riêng,Long Biên,10/05/2024,96 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,Tây - Bắc,Tây - Bắc,11 m,6 m
+39841340,Nhà riêng,Hoàng Mai,14/05/2024,53 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,3 phòng,5 tầng,,,,
+39658814,Nhà biệt thự liền kề,Thanh Xuân,12/05/2024,98 m²,35 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,5 phòng,5 tầng,Đông - Nam,Đông - Nam,11 m,"7,5 m"
+36317445,Nhà biệt thự liền kề,Hoàng Mai,13/05/2024,99 m²,28 tỷ,Sổ đỏ/ Sổ hồng.,Đầy đủ.,5 phòng,5 phòng,4 tầng,Tây - Nam,Đông - Bắc,20 m,"6,6 m"
+36318410,Nhà biệt thự liền kề,Hoàng Mai,13/05/2024,160 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,Đầy đủ.,6 phòng,6 phòng,5 tầng,Đông - Nam,Tây - Bắc,30 m,10 m
+39850403,Nhà mặt phố,Thanh Xuân,14/05/2024,103 m²,"23,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,4 tầng,,,,"4,5 m"
+39830005,Nhà riêng,Đống Đa,12/05/2024,91 m²,21 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,25 phòng,25 phòng,8 tầng,,,,
+37534666,Nhà riêng,Đống Đa,09/05/2024,65 m²,12 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,6 m,"4,3 m"
+39837434,Nhà riêng,Cầu Giấy,13/05/2024,60 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,6 tầng,,,5 m,4 m
+37981628,Nhà riêng,Hà Đông,14/05/2024,75 m²,"10,9 tỷ",Đang chờ sổ,Đầy đủ,15 phòng,15 phòng,6 tầng,,,,"5,2 m"
+39850384,Nhà riêng,Bắc Từ Liêm,14/05/2024,54 m²,"3,5 tỷ",Sổ đỏ/ Sổ hồng,,,,1 tầng,,,6 m,4 m
+39830193,Nhà riêng,Cầu Giấy,12/05/2024,36 m²,"6,3 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,6 tầng,Tây - Bắc,,2 m,8 m
+39456696,Nhà riêng,Hoài Đức,14/05/2024,56 m²,"9,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,6 phòng,5 phòng,5 tầng,,,8 m,6 m
+39715534,Nhà riêng,Đống Đa,14/05/2024,70 m²,"18,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,4 tầng,,,5 m,4 m
+39749062,Nhà mặt phố,Thanh Xuân,14/05/2024,91 m²,"41,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,7 phòng,7 phòng,9 tầng,,,8 m,6 m
+39663366,Nhà mặt phố,Cầu Giấy,14/05/2024,95 m²,"41,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,8 phòng,10 phòng,9 tầng,,,8 m,6 m
+39850675,Nhà riêng,Long Biên,14/05/2024,94 m²,"11,4 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,5 tầng,,,,
+39850670,Nhà riêng,Thanh Xuân,14/05/2024,50 m²,"7,9 tỷ",,,,,5 tầng,,,,"5,5 m"
+39806587,Nhà riêng,Cầu Giấy,10/05/2024,50 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,
+39816030,Nhà riêng,Hoàng Mai,10/05/2024,60 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,5 phòng,5 phòng,4 tầng,,,,"4,5 m"
+39813679,Nhà biệt thự liền kề,Hoàng Mai,10/05/2024,62 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,5 phòng,4 tầng,,,16 m,"7,2 m"
+39850356,Nhà riêng,Đống Đa,14/05/2024,25 m²,5 tỷ,,,3 phòng,4 phòng,5 tầng,,,,
+39733312,Nhà riêng,Hoài Đức,13/05/2024,32 m²,"3,25 tỷ",,"Nội thất gồm có tủ bếp, kệ TV, quạt trần, điều hòa, nóng lạnh.",,,5 tầng,,,3 m,"3,4 m"
+39839946,Nhà riêng,Hai Bà Trưng,13/05/2024,50 m²,"7,2 tỷ",,,4 phòng,4 phòng,4 tầng,,,,"3,3 m"
+39850343,Nhà riêng,Thanh Xuân,14/05/2024,38 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,5 tầng,,,"2,5 m","3,5 m"
+39839945,Nhà riêng,Đống Đa,14/05/2024,36 m²,"9,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,,3 tầng,,,10 m,4 m
+39850345,Nhà riêng,Thanh Xuân,14/05/2024,68 m²,13 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,7 tầng,,,,4 m
+37873095,Nhà biệt thự liền kề,Hà Đông,03/05/2024,140 m²,26 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,5 tầng,,,,
+39850656,Nhà riêng,Ba Đình,14/05/2024,62 m²,"18,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,7 tầng,,,4 m,4 m
+31113400,Nhà mặt phố,Hà Đông,14/05/2024,42 m²,"9,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,4 phòng,3 tầng,,,6 m,4 m
+39850323,Nhà riêng,Thanh Trì,14/05/2024,31 m²,"3,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,5 tầng,Tây - Nam,Tây - Nam,5 m,"3,8 m"
+39850320,Nhà riêng,Đống Đa,14/05/2024,31 m²,"4,95 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,4 tầng,,,,"3,6 m"
+39850305,Nhà riêng,Thanh Xuân,14/05/2024,40 m²,"7,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,6 tầng,,,,"3,8 m"
+39850641,Nhà riêng,Hai Bà Trưng,14/05/2024,70 m²,"16,8 tỷ",,,6 phòng,5 phòng,5 tầng,Đông - Nam,Tây - Nam,6 m,"4,3 m"
+39841194,Nhà riêng,Hoàng Mai,14/05/2024,37 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,4 phòng,5 tầng,,,,
+39850631,Nhà riêng,Đống Đa,14/05/2024,81 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,5 phòng,5 tầng,,,,"5,4 m"
+39850295,Nhà riêng,Đống Đa,14/05/2024,29 m²,"4,89 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,3 phòng,4 tầng,,,,"3,3 m"
+39840132,Nhà riêng,Nam Từ Liêm,13/05/2024,35 m²,"4,35 tỷ",Sổ đỏ/ Sổ hồng,"- Nội thất: Đẹp, chủ tự tay mua về hàng cao cấp nhất mới cho lắp đặt",4 phòng,,5 tầng,,,,
+26560535,Nhà biệt thự liền kề,Tây Hồ,14/05/2024,220 m²,202 triệu/m²,,,,,,,,30 m,22 m
+39844352,Nhà riêng,Nam Từ Liêm,14/05/2024,"35,8 m²","6,5 tỷ",Sổ đỏ/ Sổ hồng,,8 phòng,,6 tầng,,,,
+32809845,Nhà biệt thự liền kề,Tây Hồ,14/05/2024,180 m²,86 tỷ,Sổ đỏ/ Sổ hồng,Full nội thất xịn,,,3 tầng,Tây - Nam,Đông - Bắc,30 m,15 m
+39591412,Nhà riêng,Hoàng Mai,07/05/2024,45 m²,"7,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,5 phòng,6 tầng,,,3 m,"5,3 m"
+39830141,Nhà riêng,Đống Đa,12/05/2024,44 m²,"6,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,4 tầng,,,,"3,6 m"
+39850268,Nhà riêng,Thanh Xuân,14/05/2024,30 m²,"3,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,,5 tầng,,,,
+39850270,Nhà mặt phố,Đống Đa,14/05/2024,84 m²,36 tỷ,Sổ đỏ/ Sổ hồng,,8 phòng,4 phòng,4 tầng,,,40 m,
+39825134,Nhà riêng,Cầu Giấy,12/05/2024,60 m²,"8,25 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,2 m,4 m
+31491066,Nhà riêng,Hà Đông,14/05/2024,65 m²,8 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ.,1 phòng,1 phòng,1 tầng,,,,5 m
+39850264,Nhà riêng,Đống Đa,14/05/2024,80 m²,"17,8 tỷ",Sổ đỏ/ Sổ hồng,,20 phòng,20 phòng,8 tầng,,,,
+39850574,Nhà mặt phố,Hoàng Mai,14/05/2024,56 m²,15 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,,,12 m,"4,6 m"
+39798782,Nhà riêng,Thanh Xuân,09/05/2024,30 m²,"4,55 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,4 tầng,,,,
+39815738,Nhà riêng,Hoàng Mai,10/05/2024,45 m²,6 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,5 phòng,6 tầng,,,,5 m
+39644211,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,202 m²,"37,5 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,6 phòng,6 phòng,4 tầng,,,10 m,10 m
+39850215,Nhà riêng,Đống Đa,14/05/2024,48 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,6 tầng,,,,"4,2 m"
+38815433,Shophouse/Nhà phố thương mại,Thanh Trì,14/05/2024,117 m²,38 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,6 phòng,6 phòng,6 tầng,,,36 m,6 m
+38922617,Nhà biệt thự liền kề,Hà Đông,14/05/2024,216 m²,47 tỷ,,,,,,,,,
+39585957,Nhà riêng,Long Biên,09/05/2024,"53,3 m²","8,5 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,4 phòng,4 tầng,,,"4,5 m","4,36 m"
+39673339,Nhà riêng,Nam Từ Liêm,14/05/2024,63 m²,"12,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,14 phòng,,8 tầng,,,"2,5 m",6 m
+39801279,Nhà riêng,Long Biên,09/05/2024,"96,5 m²","12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,3 tầng,,,4 m,6 m
+39830067,Nhà riêng,Cầu Giấy,12/05/2024,70 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,14 phòng,14 phòng,8 tầng,,,3 m,8 m
+39568972,Nhà riêng,Thanh Trì,14/05/2024,68 m²,"5,6 tỷ",Sổ đỏ/ Sổ hồng,,,,2 tầng,,,"2,5 m",10 m
+39474796,Nhà riêng,Nam Từ Liêm,14/05/2024,40 m²,7 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,,,1 tầng,,,3 m,3 m
+39751663,Nhà mặt phố,Cầu Giấy,14/05/2024,100 m²,66 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,15 phòng,,10 tầng,,,15 m,10 m
+39741371,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,113 m²,"37,5 tỷ",Sổ đỏ/ Sổ hồng,Không nội thất,,,5 tầng,,,8 m,5 m
+39751609,Nhà mặt phố,Cầu Giấy,14/05/2024,98 m²,56 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,,5 tầng,,,20 m,"6,5 m"
+39836982,Nhà riêng,Nam Từ Liêm,13/05/2024,74 m²,"14,5 tỷ",,"Full nội thất, điều hòa, nóng lạnh, máy giặt, bếp, khóa vân tay, nhà đẹp như khách sạn, 13 phòng khép kín lúc nào cũng full phòng doanh thu 65 triệu/ tháng.",13 phòng,13 phòng,7 tầng,,,,
+39837327,Nhà biệt thự liền kề,Hà Đông,13/05/2024,83 m²,"14,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,7 phòng,5 tầng,,,,5 m
+39850478,Nhà mặt phố,Đống Đa,14/05/2024,224 m²,125 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,12 phòng,,6 tầng,,,30 m,10 m
+39835835,Nhà riêng,Thanh Xuân,13/05/2024,45 m²,9 tỷ,Sổ đỏ,Cơ bản,4 phòng,3 phòng,4 tầng,,,,
+39850444,Nhà riêng,Nam Từ Liêm,14/05/2024,32 m²,"4,45 tỷ",,Chủ tặng lại toàn bộ nội thất xịn phong cách hiện đại.,,,5 tầng,,,,4 m
+39809026,Shophouse/Nhà phố thương mại,Hà Đông,10/05/2024,65 m²,"25,5 tỷ",,,,,5 tầng,,,,"6,5 m"
+39802567,Nhà mặt phố,Hà Đông,09/05/2024,35 m²,"11,9 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,4 tầng,,,,"3,6 m"
+39802259,Nhà mặt phố,Hà Đông,09/05/2024,40 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,,2 phòng,2 phòng,2 tầng,Đông - Nam,,6 m,4 m
+39791192,Nhà riêng,Hà Đông,08/05/2024,30 m²,"9,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,5 phòng,7 tầng,,,,
+39808888,Nhà riêng,Thanh Xuân,10/05/2024,90 m²,34 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,18 phòng,18 phòng,9 tầng,,,,
+39809223,Nhà mặt phố,Hà Đông,10/05/2024,105 m²,19 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,4 tầng,,,,"4,3 m"
+39815717,Nhà riêng,Hà Đông,10/05/2024,45 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,,1 phòng,1 phòng,,,,,
+39816634,Nhà riêng,Thanh Xuân,10/05/2024,38 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,3 phòng,5 tầng,,,,
+39816676,Nhà riêng,Hà Đông,10/05/2024,59 m²,"14,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,4 tầng,,,,"4,8 m"
+39779040,Nhà riêng,Thanh Xuân,07/05/2024,53 m²,"13,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,4 tầng,,,,"4,4 m"
+35358263,Nhà biệt thự liền kề,Hà Đông,12/05/2024,"237,5 m²",31 tỷ,Sổ đỏ,,,,4 tầng,,,,
+39824129,Nhà riêng,Hà Đông,11/05/2024,52 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,,,,"3,7 m"
+39850455,Nhà riêng,Tây Hồ,14/05/2024,80 m²,"16,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,,5 tầng,Tây - Nam,Tây - Nam,8 m,"6,3 m"
+39850446,Nhà riêng,Hà Đông,14/05/2024,90 m²,"11,5 tỷ",SĐ,,,,7 tầng,,,,
+39850441,Nhà mặt phố,Ba Đình,14/05/2024,85 m²,37 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,3 tầng,,,,"5,1 m"
+39850439,Nhà riêng,Thanh Xuân,14/05/2024,40 m²,"7,8 tỷ",Sổ đỏ/sổ hồng.,,3 phòng,5 phòng,6 tầng,,,,"3,8 m"
+39849932,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,170 m²,26 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,Tây - Nam,,,
+39850428,Nhà mặt phố,Đống Đa,14/05/2024,216 m²,108 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,20 phòng,,9 tầng,,,30 m,"10,5 m"
+39839719,Nhà riêng,Nam Từ Liêm,13/05/2024,50 m²,"9,59 tỷ",Sổ đỏ/ Sổ hồng,,11 phòng,11 phòng,7 tầng,,,,
+39613260,Nhà riêng,Cầu Giấy,14/05/2024,35 m²,"6,25 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,5 tầng,,,,
+39850419,Nhà riêng,Hoàng Mai,14/05/2024,"36,3 m²","4,6 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,5 phòng,4 phòng,5 tầng,,,,
+39850288,Nhà biệt thự liền kề,Hà Đông,14/05/2024,"198,9 m²",58 tỷ,Sổ hồng/sổ đỏ,,,,4 tầng,,,,27 m
+39850349,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,100 m²,"13,2 tỷ",,,,,,,,17 m,5 m
+39413913,Nhà mặt phố,Đống Đa,14/05/2024,36 m²,"13,6 tỷ",Sổ đỏ/ Sổ hồng,,,,,,,,"3,7 m"
+39850267,Nhà riêng,Hà Đông,14/05/2024,47 m²,9 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,5 tầng,,,,4 m
+39850267,Nhà riêng,Hà Đông,14/05/2024,47 m²,9 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,5 tầng,,,,4 m
+39117812,Nhà mặt phố,Thanh Oai,14/05/2024,150 m²,Thỏa thuận,,,,,,,,,
+39850408,Nhà riêng,Hà Đông,14/05/2024,53 m²,"8,9 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,5 tầng,,,,"4,3 m"
+39850135,Nhà biệt thự liền kề,Hai Bà Trưng,14/05/2024,95 m²,"28,3 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,6 phòng,5 tầng,,,6 m,5 m
+39850407,Nhà mặt phố,Hai Bà Trưng,14/05/2024,115 m²,"38,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,,8 tầng,,,18 m,"3,8 m"
+39789949,Nhà riêng,Hoàng Mai,08/05/2024,40 m²,"4,2 tỷ",Sổ đỏ/ Sổ hồng.,,3 phòng,,5 tầng,,,,
+39848867,Nhà riêng,Đống Đa,14/05/2024,52 m²,"12,5 tỷ","* Sổ đỏ chính chủ, vuông A4 sẵn sàng giao dịch.","- Nhà mới đẹp long lanh 6 tầng thang máy, chủ nhà là kiến trúc sư xây cực tâm huyết, nội thất xịn.",,,6 tầng,,,,"4,2 m"
+39849421,Nhà riêng,Thanh Xuân,14/05/2024,44 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,3 phòng,5 tầng,Nam,Nam,,"4,5 m"
+39848930,Nhà riêng,Hoài Đức,14/05/2024,32 m²,"2,9 tỷ",Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,"8,2 m"
+39823730,Nhà riêng,Cầu Giấy,11/05/2024,42 m²,"8,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,3 m,"3,6 m"
+39848480,Nhà riêng,Bắc Từ Liêm,14/05/2024,48 m²,"6,85 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,4 phòng,3 phòng,4 tầng,,,,
+39801064,Nhà riêng,Đống Đa,09/05/2024,65 m²,12 tỷ,Sổ đỏ/ Sổ hồng,,17 phòng,17 phòng,7 tầng,,,,
+39801018,Nhà riêng,Đống Đa,09/05/2024,65 m²,"14,8 tỷ",Sổ đỏ/ Sổ hồng,,14 phòng,14 phòng,7 tầng,,,,
+39849765,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,240 m²,70 triệu/m²,,,,,,,,,
+39850366,Nhà riêng,Cầu Giấy,14/05/2024,55 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,10 phòng,6 tầng,,,,
+39066330,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,120 m²,Thỏa thuận,Hợp đồng mua bán,Không nội thất.,5 phòng,5 phòng,5 tầng,Tây - Bắc,Tây - Bắc,40 m,6 m
+39093619,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,96 m²,Thỏa thuận,Hợp đồng mua bán,Không nội thất,5 phòng,5 phòng,5 tầng,Đông - Nam,Đông - Bắc,12 m,6 m
+39850355,Nhà riêng,Bắc Từ Liêm,14/05/2024,68 m²,"9,9 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,5 tầng,,,3 m,"4,5 m"
+39823715,Nhà mặt phố,Hai Bà Trưng,11/05/2024,45 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,2 phòng,4 tầng,,,16 m,"4,2 m"
+39849755,Nhà riêng,Thanh Trì,14/05/2024,107 m²,"17,3 tỷ",+ Pháp lý: Sổ đỏ chính chủ giao dịch ngay.,Đầy đủ,40 phòng,40 phòng,7 tầng,,,"3,5 m",6 m
+39850550,Nhà biệt thự liền kề,Long Biên,14/05/2024,260 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,Đầy đủ.,6 phòng,7 phòng,4 tầng,,,13 m,9 m
+38968146,Nhà riêng,Đống Đa,14/05/2024,50 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,6 phòng,5 tầng,,,,"5,5 m"
+39850179,Nhà riêng,Đống Đa,14/05/2024,"52,3 m²","13,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,Tây - Nam,Tây - Nam,5 m,"4,5 m"
+39830094,Nhà biệt thự liền kề,Nam Từ Liêm,12/05/2024,105 m²,"26,5 tỷ","+ Sổ đỏ đầy đủ, sẵn sàng giao dịch.",Đầy đủ,6 phòng,4 phòng,4 tầng,,,8 m,"6,5 m"
+32964628,Nhà biệt thự liền kề,Hà Đông,06/05/2024,95 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cao cấp,5 phòng,5 phòng,5 tầng,,,20 m,"4,5 m"
+37219376,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,150 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,,,,4 tầng,Đông - Nam,Tây - Bắc,13 m,"8,5 m"
+39850539,Nhà biệt thự liền kề,Ba Đình,14/05/2024,70 m²,25 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,10 m,"5,5 m"
+39797091,Nhà riêng,Long Biên,09/05/2024,43 m²,"4,75 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,4 phòng,4 phòng,4 tầng,,,3 m,5 m
+37360289,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,288 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,Tây - Bắc,20 m,16 m
+39796706,Nhà riêng,Long Biên,09/05/2024,43 m²,"6,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,,,1 tầng,,,5 m,
+37219337,Nhà biệt thự liền kề,Gia Lâm,13/05/2024,150 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,Tây - Bắc,13 m,"8,5 m"
+34699632,Nhà biệt thự liền kề,Gia Lâm,13/05/2024,150 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,,,,4 tầng,Tây - Bắc,Tây - Bắc,30 m,10 m
+37212099,Nhà biệt thự liền kề,Gia Lâm,13/05/2024,150 m²,Thỏa thuận,Sổ đỏ,,,,4 tầng,Đông - Nam,Tây - Bắc,13 m,"8,3 m"
+39850508,Nhà mặt phố,Đống Đa,14/05/2024,54 m²,27 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,4 m
+39817233,Nhà riêng,Hà Đông,11/05/2024,38 m²,"4,88 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,4 tầng,,,2 m,"3,2 m"
+39628663,Nhà biệt thự liền kề,Gia Lâm,18/04/2024,66 m²,"13,9 tỷ",Sổ đỏ,,,,,,,,
+39695236,Nhà riêng,Thanh Xuân,06/05/2024,38 m²,"7,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,7 tầng,,,,
+39850497,Nhà riêng,Nam Từ Liêm,14/05/2024,40 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Full,,,5 tầng,,,,
+39416569,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,80 m²,"7,19 tỷ",Sổ đỏ/ Sổ hồng,,,,5 tầng,Đông - Bắc,Đông - Bắc,12 m,5 m
+39671641,Nhà riêng,Nam Từ Liêm,14/05/2024,80 m²,35 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,18 phòng,,8 tầng,,,8 m,"4,2 m"
+39850244,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,90 m²,12 tỷ,Sổ đỏ/ Sổ hồng.,,,,5 tầng,Đông - Nam,,,6 m
+39717739,Nhà biệt thự liền kề,Hà Đông,11/05/2024,145 m²,38 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,15 m,23 m
+39849774,Nhà riêng,Thanh Xuân,14/05/2024,40 m²,"7,8 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,6 tầng,,,2 m,"3,8 m"
+39693615,Nhà riêng,Hoàng Mai,02/05/2024,60 m²,"6,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,,
+39823709,Nhà riêng,Nam Từ Liêm,11/05/2024,38 m²,6 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,4 m,"4,5 m"
+39850110,Nhà riêng,Đống Đa,14/05/2024,45 m²,"13,8 tỷ",Sổ đỏ/ Sổ hồng,Kiến trúc hiện đại nội thất cao cấp.,4 phòng,4 phòng,5 tầng,,,,
+38632119,Nhà biệt thự liền kề,Hà Đông,14/05/2024,50 m²,"8,5 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,5 phòng,5 tầng,Đông - Nam,Đông - Nam,10 m,4 m
+39849891,Nhà riêng,Đống Đa,14/05/2024,105 m²,"18,5 tỷ",- Sổ đỏ chính chủ vuông đẹp sẵn sàng giao dịch luôn.,,,,6 tầng,,,,7 m
+39823701,Nhà mặt phố,Nam Từ Liêm,11/05/2024,140 m²,58 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,30 phòng,30 phòng,9 tầng,,,8 m,9 m
+39849944,Nhà riêng,Nam Từ Liêm,14/05/2024,90 m²,"24,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,24 phòng,24 phòng,7 tầng,,,9 m,8 m
+39579578,Nhà riêng,Long Biên,07/05/2024,50 m²,"11,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,6 tầng,,,,
+39846715,Nhà riêng,Cầu Giấy,14/05/2024,173 m²,30 tỷ,Sổ đỏ/ Sổ hồng,,8 phòng,8 phòng,4 tầng,,,,"12,5 m"
+39850227,Nhà riêng,Nam Từ Liêm,14/05/2024,50 m²,12 tỷ,+ Sổ đỏ chính chủ vuông đẹp.,Đầy đủ.,6 phòng,6 phòng,5 tầng,,,6 m,"4,2 m"
+38999788,Nhà riêng,Cầu Giấy,14/05/2024,37 m²,"5,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,
+39850243,Nhà riêng,Hoàng Mai,14/05/2024,74 m²,"17,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,,,6 tầng,,,,"5,5 m"
+39849638,Nhà riêng,Đống Đa,14/05/2024,65 m²,"26,8 tỷ","Pháp lý: Sổ đỏ chính chủ, pháp lý sạch sẽ.",Full mọi công năng.,4 phòng,6 phòng,8 tầng,,,,
+39850021,Nhà riêng,Hai Bà Trưng,14/05/2024,38 m²,"7,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,,
+39850050,Nhà riêng,Đống Đa,14/05/2024,76 m²,"26,5 tỷ",Sổ đỏ/ Sổ hồng.,,12 phòng,5 phòng,5 tầng,,,12 m,"7,3 m"
+39849897,Nhà riêng,Thanh Xuân,14/05/2024,170 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,,,9 tầng,,,17 m,12 m
+39849797,Nhà riêng,Đống Đa,14/05/2024,63 m²,"19,5 tỷ",+ Sổ cực đẹp.,Đầy đủ,,,8 tầng,,,,
+39035478,Shophouse/Nhà phố thương mại,Hà Đông,12/05/2024,91 m²,36 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,"6,5 m"
+38768607,Nhà riêng,Hai Bà Trưng,14/05/2024,45 m²,"6,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,,5 tầng,,,,5 m
+39646684,Nhà riêng,Hà Đông,06/05/2024,55 m²,11 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,,5 tầng,,,,
+39850256,Nhà riêng,Đống Đa,14/05/2024,65 m²,26 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,8 phòng,8 tầng,,,,"5,6 m"
+39849986,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,75 m²,"15,4 tỷ",Sổ đỏ/ Sổ hồng,,,,5 tầng,,,12 m,5 m
+39662994,Nhà riêng,Bắc Từ Liêm,14/05/2024,57 m²,22 tỷ,Sổ đỏ,,7 phòng,8 phòng,6 tầng,,,6 m,"6,7 m"
+39731894,Nhà riêng,Bắc Từ Liêm,14/05/2024,62 m²,7 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,,,"2,8 m",5 m
+39849958,Nhà riêng,Thanh Xuân,14/05/2024,41 m²,"7,55 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,5 tầng,,,,"5,5 m"
+39745322,Nhà riêng,Bắc Từ Liêm,14/05/2024,70 m²,"9,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,Tây - Nam,,"2,5 m","6,7 m"
+39850188,Nhà riêng,Thanh Xuân,14/05/2024,30 m²,"3,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,,4 tầng,,,,
+39850166,Nhà biệt thự liền kề,Hà Đông,14/05/2024,"88,6 m²",20 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,,4 tầng,,,,"4,5 m"
+39848025,Shophouse/Nhà phố thương mại,Hai Bà Trưng,14/05/2024,108 m²,157 triệu/m²,Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,3 phòng,,,,50 m,10 m
+39850230,Nhà riêng,Hà Đông,14/05/2024,34 m²,"4,45 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,5 tầng,,,,"4,6 m"
+39850117,Nhà biệt thự liền kề,Hà Đông,14/05/2024,169 m²,79 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,,4 tầng,,,,10 m
+39850236,Nhà riêng,Long Biên,14/05/2024,32 m²,"3,6 tỷ",Sổ đỏ/ Sổ hồng,,2 phòng,,4 tầng,,,"2,5 m",
+39823621,Nhà riêng,Long Biên,11/05/2024,101 m²,20 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất.,4 phòng,3 phòng,3 tầng,Tây - Nam,Tây - Nam,10 m,"5,4 m"
+39734646,Nhà riêng,Đống Đa,14/05/2024,28 m²,"3,85 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,2 phòng,2 phòng,3 tầng,,,3 m,"7,8 m"
+39695348,Nhà mặt phố,Nam Từ Liêm,14/05/2024,160 m²,36 tỷ,- Sổ đỏ chính chủ vuông đẹp.,Đầy đủ.,1 phòng,1 phòng,1 tầng,,Đông - Nam,12 m,5 m
+39734680,Nhà riêng,Đống Đa,14/05/2024,34 m²,"5,45 tỷ",,,2 phòng,3 phòng,4 tầng,,,"2,5 m","4,2 m"
+39849935,Nhà riêng,Hoài Đức,14/05/2024,40 m²,"3,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,3 phòng,4 tầng,,,,
+38901536,Nhà riêng,Đống Đa,06/05/2024,40 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,3 phòng,4 tầng,,,3 m,"3,2 m"
+39823618,Nhà riêng,Nam Từ Liêm,11/05/2024,62 m²,"9,9 tỷ","+ Sổ đỏ chính chủ gửi bank, chủ tự rút.",Đầy đủ.,4 phòng,4 phòng,5 tầng,,,4 m,"4,5 m"
+39783122,Nhà riêng,Long Biên,08/05/2024,40 m²,"9,4 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,5 phòng,4 tầng,,,7 m,4 m
+39758253,Nhà riêng,Long Biên,05/05/2024,30 m²,"4,35 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,"3,5 m","4,1 m"
+39783537,Nhà riêng,Long Biên,07/05/2024,58 m²,"11,6 tỷ",Sổ đỏ/ Sổ hồng.,,5 phòng,6 phòng,6 tầng,,,5 m,"4,5 m"
+39850146,Nhà riêng,Tây Hồ,14/05/2024,"47,5 m²","10,52 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,,5 tầng,Đông - Bắc,Đông - Bắc,,"11,05 m"
+39849852,Nhà riêng,Hoàng Mai,14/05/2024,110 m²,15 tỷ,Sổ đỏ/ Sổ hồng.,Đầy đủ.,25 phòng,25 phòng,7 tầng,,,"2,5 m",6 m
+39849934,Nhà riêng,Đống Đa,14/05/2024,65 m²,"26,8 tỷ",,,,,8 tầng,,,,"5,55 m"
+39744751,Nhà riêng,Long Biên,06/05/2024,"85,5 m²","9,8 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,1 tầng,,,25 m,"4,1 m"
+39806152,Nhà riêng,Long Biên,09/05/2024,50 m²,"4,6 tỷ",Sổ đỏ/ Sổ hồng,Nội thất xịn sò.,4 phòng,5 phòng,6 tầng,,,5 m,4 m
+39783702,Nhà riêng,Long Biên,08/05/2024,55 m²,"8,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,4 tầng,,,3 m,"4,1 m"
+39795368,Nhà riêng,Long Biên,08/05/2024,41 m²,"5,3 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,3 phòng,4 phòng,5 tầng,,,"2,5 m",4 m
+39410928,Nhà biệt thự liền kề,Cầu Giấy,14/05/2024,270 m²,56 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,5 tầng,,,20 m,15 m
+39823609,Nhà riêng,Bắc Từ Liêm,11/05/2024,106 m²,"13,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,2 phòng,3 tầng,,,5 m,"8,8 m"
+39840289,Nhà riêng,Long Biên,13/05/2024,72 m²,"5,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,4 phòng,3 tầng,,,3 m,6 m
+39830729,Nhà riêng,Long Biên,12/05/2024,92 m²,15 tỷ,,,4 phòng,4 phòng,5 tầng,,,5 m,"4,5 m"
+39849608,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,80 m²,49 triệu/m²,Sổ đỏ/ Sổ hồng,,,,,Đông - Bắc,,,
+39829943,Nhà riêng,Long Biên,12/05/2024,56 m²,"7,4 tỷ",Sổ đỏ/ Sổ hồng,"Đầy đủ trang bị nội thất sang trọng, trang trí đẹp mắt.",,,3 tầng,,,,"3,3 m"
+39850052,Nhà riêng,Tây Hồ,14/05/2024,69 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,Tây - Bắc,Tây - Bắc,3 m,4 m
+39850242,Nhà biệt thự liền kề,Long Biên,14/05/2024,200 m²,38 tỷ,Sổ đỏ/ Sổ hồng,"Đầy đủ Nội thất được đầu tư tỉ mỉ, sang trọng và hiện đại.",6 phòng,6 phòng,5 tầng,Đông - Bắc,Đông - Bắc,10 m,10 m
+39849708,Nhà riêng,Đống Đa,14/05/2024,41 m²,"13,8 tỷ",Sổ đỏ cực đẹp sẵn sàng giao dịch.,"- Khách chỉ việc xách vali về ở, thuận tiện vừa ở vừa kinh doanh, làm văn phòng.",,,6 tầng,,,,4 m
+39302357,Nhà biệt thự liền kề,Hoàng Mai,10/05/2024,"93,8 m²",Thỏa thuận,Sổ đỏ/ Sổ hồng,Không nội thất.,6 phòng,5 phòng,5 tầng,Tây,Tây,12 m,5 m
+35609054,Nhà riêng,Hà Đông,14/05/2024,40 m²,"4,55 tỷ",,,,,,,,,
+39849941,Nhà riêng,Đống Đa,14/05/2024,65 m²,"26,5 tỷ",,,6 phòng,8 phòng,8 tầng,,,5 m,"5,6 m"
+39850265,Nhà biệt thự liền kề,Thanh Oai,14/05/2024,90 m²,80 triệu/m²,Hợp đồng mua bán,,,,,,,17 m,
+39850283,Nhà riêng,Cầu Giấy,14/05/2024,57 m²,"9,85 tỷ",Sổ đỏ/ Sổ hồng,,11 phòng,,5 tầng,,,3 m,"4,1 m"
+39056055,Nhà riêng,Hai Bà Trưng,14/05/2024,46 m²,"7,9 tỷ","Sổ đỏ chính chủ, giao dịch ngay",Đầy đủ,4 phòng,,4 tầng,,,,10 m
+39635919,Nhà mặt phố,Long Biên,14/05/2024,488 m²,66 tỷ,,,,,3 tầng,,,,13 m
+39849568,Nhà mặt phố,Hoàn Kiếm,14/05/2024,35 m²,32 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,
+39850061,Nhà riêng,Cầu Giấy,14/05/2024,39 m²,10 tỷ,,,4 phòng,5 phòng,6 tầng,,,6 m,"4,7 m"
+39660936,Nhà riêng,Hoài Đức,13/05/2024,30 m²,Thỏa thuận,Sổ đỏ,Nội thất để lại full đồ.,3 phòng,4 phòng,5 tầng,,,2 m,3 m
+39850083,Nhà riêng,Thanh Trì,14/05/2024,120 m²,"5,5 tỷ",,,2 phòng,2 phòng,2 tầng,,,,"4,18 m"
+39850299,Nhà riêng,Hà Đông,14/05/2024,43 m²,"2,35 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,Đông - Nam,Đông - Nam,3 m,4 m
+33435566,Nhà biệt thự liền kề,Hà Đông,08/05/2024,91 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Full mặt ngoài,12 phòng,8 phòng,6 tầng,,,,"6,5 m"
+39794290,Nhà riêng,Hoàng Mai,08/05/2024,52 m²,"6,4 tỷ",Sổ đỏ.,,5 phòng,5 phòng,5 tầng,,,3 m,"3,8 m"
+39850232,Nhà riêng,Thanh Xuân,14/05/2024,30 m²,"3,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,,4 tầng,,,,
+39621587,Nhà biệt thự liền kề,Thanh Trì,14/05/2024,60 m²,"15,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,3 phòng,5 tầng,,,25 m,4 m
+39850199,Nhà riêng,Long Biên,14/05/2024,38 m²,4 tỷ,Sổ đỏ/ Sổ hồng.,Cơ bản.,3 phòng,4 phòng,5 tầng,,,,
+39850189,Nhà riêng,Hai Bà Trưng,14/05/2024,83 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,,7 phòng,7 phòng,7 tầng,,,6 m,"5,8 m"
+39849368,Nhà riêng,Thanh Trì,14/05/2024,300 m²,39 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,,,,,,,12 m
+39825029,Nhà mặt phố,Long Biên,12/05/2024,90 m²,"29,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ nội thất xịm.,,,7 tầng,,,,
+39042771,Nhà biệt thự liền kề,Long Biên,13/05/2024,150 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,4 phòng,5 phòng,4 tầng,Tây - Bắc,,20 m,"13,09 m"
+39850184,Nhà riêng,Ba Đình,14/05/2024,63 m²,"12,8 tỷ",Sổ đỏ/ Sổ hồng,,7 phòng,6 phòng,5 tầng,,,4 m,"4,3 m"
+37442566,Nhà biệt thự liền kề,Thạch Thất,14/05/2024,258 m²,"11,2 tỷ",Sổ đỏ/ Sổ hồng.,,5 phòng,5 phòng,4 tầng,,,13 m,10 m
+39847719,Nhà riêng,Hoài Đức,14/05/2024,30 m²,"3,6 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,Tây - Nam,,2 m,6 m
+39847772,Nhà riêng,Cầu Giấy,14/05/2024,65 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,,
+38617003,Nhà riêng,Ba Đình,10/05/2024,41 m²,8 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,,6 m
+39850174,Nhà riêng,Long Biên,14/05/2024,65 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,,5 phòng,,5 tầng,,,,5 m
+39850180,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,143 m²,35 tỷ,Sổ đỏ chính chủ sẵn sàng giao dịch.,Đầy đủ,4 phòng,5 phòng,5 tầng,,,10 m,16 m
+39611359,Nhà mặt phố,Đống Đa,10/05/2024,86 m²,43 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,,5 tầng,,,,6 m
+39715063,Nhà riêng,Cầu Giấy,10/05/2024,60 m²,21 tỷ,,,,,7 tầng,,,6 m,"5,2 m"
+39850084,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,95 m²,"28,3 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,6 phòng,5 tầng,,,6 m,5 m
+39577520,Nhà biệt thự liền kề,Thạch Thất,14/05/2024,298 m²,"13,5 tỷ",Có sổ.,,9 phòng,9 phòng,3 tầng,Bắc,Bắc,10 m,37 m
+39703376,Nhà biệt thự liền kề,Hà Đông,14/05/2024,300 m²,Thỏa thuận,,,8 phòng,6 phòng,7 tầng,Đông - Nam,Đông - Nam,60 m,40 m
+38873056,Nhà mặt phố,Hoàn Kiếm,10/05/2024,100 m²,41 tỷ,,,,,1 tầng,,,8 m,"5,5 m"
+39823539,Nhà riêng,Chương Mỹ,11/05/2024,38 m²,"1,85 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,Đông - Nam,Đông - Nam,4 m,"3,34 m"
+39590851,Nhà riêng,Thanh Xuân,07/05/2024,41 m²,"7,6 tỷ",Sổ đỏ,,5 phòng,,5 tầng,,,,5 m
+39792688,Nhà riêng,Cầu Giấy,08/05/2024,52 m²,"16,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,14 phòng,14 phòng,8 tầng,,,,"5,2 m"
+39850047,Nhà riêng,Hà Đông,14/05/2024,50 m²,3 tỷ,,Không nội thất,2 phòng,1 phòng,1 tầng,,,7 m,
+38855701,Shophouse/Nhà phố thương mại,Nam Từ Liêm,14/05/2024,100 m²,10 tỷ,,,,,,,,,
+38747680,Shophouse/Nhà phố thương mại,Nam Từ Liêm,14/05/2024,170 m²,9 tỷ,,,,,,,,,
+35473149,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,129 m²,"18,5 tỷ",Sổ đỏ sẵn sàng.,,,,4 tầng,,,,
+21765497,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,205 m²,30 tỷ,Hợp đồng mua bán,,7 phòng,6 phòng,4 tầng,Đông - Nam,Tây - Nam,18 m,18 m
+39714751,Nhà riêng,Tây Hồ,11/05/2024,40 m²,"8,3 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,4 phòng,5 tầng,Tây,,,4 m
+39520433,Nhà biệt thự liền kề,Hà Đông,14/05/2024,104 m²,30 tỷ,,,,,,,,,
+37018474,Shophouse/Nhà phố thương mại,Hai Bà Trưng,14/05/2024,150 m²,17 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,
+39850043,Nhà biệt thự liền kề,Tây Hồ,14/05/2024,75 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,8 phòng,8 tầng,,,8 m,"7,3 m"
+39849439,Nhà riêng,Hai Bà Trưng,14/05/2024,47 m²,"13,1 tỷ",Sổ đỏ/ Sổ hồng,Không nội thất,1 phòng,1 phòng,1 tầng,Tây,Tây,,"4,5 m"
+39849867,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,61 m²,"11,5 tỷ","Pháp lý: Sổ đỏ chính chủ, đẹp như A4. Sẵn sàng giao dịch.",Đầy đủ - Chủ hoàn thiện nội thất gỗ gõ xịn (đắt gấp đôi gỗ lim).,4 phòng,,4 tầng,,,,
+39714783,Nhà riêng,Tây Hồ,11/05/2024,48 m²,"10,3 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,4 phòng,5 tầng,Đông - Nam,,4 m,7 m
+39850028,Nhà mặt phố,Hai Bà Trưng,14/05/2024,72 m²,12 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,
+39850164,Nhà riêng,Đống Đa,14/05/2024,88 m²,"28,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,10 m,8 m
+39849924,Nhà riêng,Ba Đình,14/05/2024,44 m²,"15,5 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,
+39713536,Nhà mặt phố,Hoàng Mai,14/05/2024,250 m²,"24,6 tỷ",Sổ đỏ/ Sổ hồng.,,4 phòng,4 phòng,3 tầng,,,,
+37227610,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,150 m²,"27,5 tỷ",,,,,,,,,
+39823574,Nhà riêng,Đống Đa,11/05/2024,12 m²,"2,05 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,3 phòng,4 tầng,,,2 m,
+39627792,Nhà riêng,Cầu Giấy,10/05/2024,100 m²,39 tỷ,Sổ đỏ/ Sổ hồng,,,,7 tầng,,,7 m,"6,5 m"
+39839106,Nhà riêng,Đống Đa,13/05/2024,45 m²,15 tỷ,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,6 m,4 m
+39849277,Nhà riêng,Tây Hồ,14/05/2024,42 m²,"4,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,5 tầng,Đông - Nam,Đông - Nam,100 m,"4,07 m"
+39849286,Nhà riêng,Bắc Từ Liêm,14/05/2024,30 m²,"3,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,6 m,7 m
+36012850,Nhà riêng,Ba Đình,14/05/2024,60 m²,"16,5 tỷ",Sổ đỏ/ Sổ hồng,,50 phòng,4 phòng,5 tầng,Đông - Bắc,,10 m,6 m
+39489561,Nhà biệt thự liền kề,Ba Đình,14/05/2024,113 m²,78 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,Đông - Bắc,Tây - Nam,12 m,15 m
+37934297,Nhà riêng,Nam Từ Liêm,09/05/2024,32 m²,"4,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,1 phòng,1 phòng,2 tầng,,,"2,5 m","3,6 m"
+39522585,Nhà riêng,Hà Đông,09/05/2024,31 m²,"4,35 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,5 tầng,,,2 m,"7,5 m"
+39466246,Nhà riêng,Hà Đông,09/05/2024,32 m²,"4,5 tỷ",Sổ đỏ,Đầy đủ,3 phòng,4 phòng,5 tầng,,,"2,5 m","4,6 m"
+39233973,Nhà riêng,Đống Đa,14/05/2024,75 m²,"26,8 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,5 tầng,,,10 m,"7,2 m"
+39850035,Nhà riêng,Ba Đình,14/05/2024,50 m²,"12,9 tỷ",Sổ đỏ.,Cơ bản,4 phòng,4 phòng,5 tầng,,,5 m,4 m
+39850079,Nhà riêng,Đống Đa,14/05/2024,65 m²,25 tỷ,Sổ đỏ/ Sổ hồng,,,,8 tầng,,,,"5,5 m"
+39850092,Nhà riêng,Đống Đa,14/05/2024,41 m²,"6,76 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,5 tầng,,,,6 m
+39415249,Nhà riêng,Hà Đông,09/05/2024,35 m²,"4,85 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,"2,5 m","4,5 m"
+39742958,Nhà mặt phố,Cầu Giấy,14/05/2024,520 m²,250 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,105 phòng,110 phòng,10 tầng,,,10 m,15 m
+39850003,Nhà mặt phố,Hai Bà Trưng,14/05/2024,132 m²,160 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,
+39849412,Nhà riêng,Cầu Giấy,14/05/2024,45 m²,"4,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,,5 tầng,,,,4 m
+39641376,Nhà riêng,Cầu Giấy,14/05/2024,110 m²,21 tỷ,,Full đồ đủ.,,,7 tầng,,,4 m,"7,5 m"
+39849993,Nhà riêng,Ba Đình,14/05/2024,43 m²,"6,7 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,5 tầng,,,3 m,"3,4 m"
+39849083,Nhà riêng,Cầu Giấy,14/05/2024,50 m²,"12,6 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,5 phòng,6 tầng,,,8 m,"4,5 m"
+39823492,Nhà riêng,Ba Đình,11/05/2024,72 m²,11 tỷ,Sổ đỏ,Đầy đủ,6 phòng,4 phòng,5 tầng,,,3 m,4 m
+39849848,Nhà riêng,Cầu Giấy,14/05/2024,55 m²,"14,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,7 tầng,,,,
+39849690,Nhà riêng,Hai Bà Trưng,14/05/2024,83 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,7 tầng,,,,
+39849901,Nhà riêng,Hà Đông,14/05/2024,30 m²,"4,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,4 m,"3,71 m"
+39729987,Nhà mặt phố,Hoàng Mai,13/05/2024,"86,2 m²",23 tỷ,Sổ đỏ/ Sổ hồng.,,5 phòng,4 phòng,4 tầng,,,30 m,"4,84 m"
+39849053,Nhà riêng,Long Biên,14/05/2024,60 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,,
+39849956,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,50 m²,"13,6 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,5 tầng,,,6 m,4 m
+39849504,Nhà riêng,Nam Từ Liêm,14/05/2024,70 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,13 phòng,13 phòng,7 tầng,,,6 m,4 m
+39849018,Nhà riêng,Gia Lâm,14/05/2024,30 m²,"2,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,4 tầng,Đông - Bắc,Đông - Bắc,5 m,"4,2 m"
+39794043,Nhà riêng,Hai Bà Trưng,08/05/2024,30 m²,4 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,,,,
+39733167,Nhà biệt thự liền kề,Mê Linh,14/05/2024,300 m²,14 tỷ,Hợp đồng mua bán,,4 phòng,4 phòng,3 tầng,,,,
+33878412,Nhà riêng,Cầu Giấy,11/05/2024,80 m²,"11,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,3 tầng,,,,"5,9 m"
+39759101,Nhà riêng,Tây Hồ,06/05/2024,93 m²,"21,5 tỷ",,Full nội thất cao cấp.,20 phòng,20 phòng,7 tầng,,,,6 m
+39526331,Nhà mặt phố,Đống Đa,09/05/2024,66 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,,
+39815090,Nhà riêng,Đống Đa,10/05/2024,50 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,5 phòng,5 tầng,,,,
+39829434,Nhà riêng,Đống Đa,12/05/2024,90 m²,"16,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,21 phòng,21 phòng,8 tầng,,,,
+39849613,Nhà riêng,Hai Bà Trưng,14/05/2024,30 m²,6 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,Tây - Nam,Tây - Nam,4 m,4 m
+39722310,Nhà riêng,Tây Hồ,11/05/2024,107 m²,12 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,,"5,7 m"
+39795615,Nhà riêng,Đống Đa,08/05/2024,106 m²,"22,5 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,28 phòng,28 phòng,8 tầng,,,,9 m
+35843086,Nhà biệt thự liền kề,Gia Lâm,13/05/2024,150 m²,20 tỷ,Sổ đỏ,,,,,Đông - Nam,,30 m,10 m
+39710939,Nhà riêng,Thanh Oai,14/05/2024,32 m²,"2,55 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,3 phòng,3 phòng,4 tầng,Đông,Nam,5 m,7 m
+39849927,Nhà riêng,Cầu Giấy,14/05/2024,70 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,13 phòng,,6 tầng,,,,
+33693914,Nhà biệt thự liền kề,Thanh Trì,14/05/2024,100 m²,15 tỷ,Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,4 tầng,,,,
+37345007,Nhà biệt thự liền kề,Thanh Trì,13/05/2024,210 m²,30 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất.,,,,Tây - Bắc,Tây - Bắc,17 m,10 m
+39849041,Nhà riêng,Cầu Giấy,14/05/2024,50 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,9 phòng,5 tầng,,,,"4,5 m"
+39576627,Nhà riêng,Hoàng Mai,14/05/2024,44 m²,"7,88 tỷ",,Đầy đủ,3 phòng,4 phòng,6 tầng,,,4 m,"5,3 m"
+39738076,Nhà riêng,Tây Hồ,14/05/2024,33 m²,"5,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,5 tầng,Tây - Nam,Đông - Bắc,2 m,"4,1 m"
+38615014,Nhà biệt thự liền kề,Thanh Trì,14/05/2024,100 m²,15 tỷ,,,5 phòng,5 phòng,5 tầng,Tây - Bắc,Tây - Nam,15 m,"5,55 m"
+39849485,Nhà riêng,Cầu Giấy,14/05/2024,40 m²,"7,6 tỷ",,,,,,,,,
+39595963,Nhà riêng,Thanh Xuân,14/05/2024,42 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,6 phòng,7 tầng,Nam,Nam,10 m,5 m
+39776883,Nhà riêng,Thanh Xuân,07/05/2024,50 m²,"14,94 tỷ",Sổ đỏ.,,4 phòng,,5 tầng,,,,"5,3 m"
+39849362,Nhà riêng,Hoàng Mai,14/05/2024,50 m²,"10,4 tỷ",,,6 phòng,4 phòng,5 tầng,,,,
+39849295,Nhà riêng,Đống Đa,14/05/2024,134 m²,"39,8 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ.,4 phòng,4 phòng,4 tầng,,,10 m,"7,1 m"
+37963892,Nhà riêng,Cầu Giấy,14/05/2024,70 m²,"15,5 tỷ",,,,4 phòng,4 tầng,,,8 m,"4,5 m"
+39849602,Nhà biệt thự liền kề,Hà Đông,14/05/2024,75 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,5 phòng,5 phòng,5 tầng,,,,
+39849064,Nhà riêng,Đống Đa,14/05/2024,55 m²,Thỏa thuận,,"Nội thất, thang máy, hệ thống điện, điều hòa và thiết bị vệ sinh mới, hiện đại.",,,8 tầng,,,,4 m
+39848839,Nhà riêng,Đống Đa,14/05/2024,42 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,10 phòng,6 tầng,,,2 m,"4,5 m"
+39492197,Nhà mặt phố,Cầu Giấy,05/05/2024,71 m²,32 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,9 phòng,9 tầng,,,20 m,"5,2 m"
+39357909,Nhà biệt thự liền kề,Thanh Xuân,14/05/2024,100 m²,"32,5 tỷ",,,,,5 tầng,,,8 m,"7,5 m"
+39743783,Nhà riêng,Hoài Đức,14/05/2024,32 m²,Thỏa thuận,,,4 phòng,,5 tầng,,,3 m,"3,5 m"
+39849310,Nhà riêng,Nam Từ Liêm,14/05/2024,82 m²,"10,25 tỷ","- Sổ đỏ chính chủ, sẵn sàng giao dịch.",,4 phòng,4 phòng,3 tầng,,,"2,5 m","5,6 m"
+39848808,Nhà riêng,Cầu Giấy,14/05/2024,44 m²,"13,3 tỷ",,,1 phòng,1 phòng,4 tầng,,,,
+39849371,Nhà mặt phố,Hai Bà Trưng,14/05/2024,90 m²,31 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,,3 tầng,,,12 m,7 m
+39849781,Nhà riêng,Ba Đình,14/05/2024,50 m²,9 tỷ,,,,,5 tầng,,,,4 m
+39849338,Nhà riêng,Hà Đông,14/05/2024,52 m²,"5,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,1 phòng,1 phòng,,Nam,,"3,2 m","3,8 m"
+39843677,Nhà biệt thự liền kề,Hà Đông,14/05/2024,90 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,12 m,"4,5 m"
+39848786,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,"95,5 m²","11,9 tỷ",Hợp đồng mua bán,Đầy đủ,5 phòng,6 phòng,5 tầng,Tây - Nam,Tây - Nam,12 m,5 m
+39849079,Nhà riêng,Thanh Xuân,14/05/2024,44 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,5 tầng,Nam,Nam,,"4,55 m"
+39837715,Nhà riêng,Hà Đông,13/05/2024,55 m²,"10,2 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,4 tầng,,,,
+39209635,Nhà riêng,Hà Đông,07/05/2024,75 m²,"13,5 tỷ",Sổ đỏ/ Sổ hồng,,6 phòng,5 phòng,6 tầng,,,,
+39849769,Nhà mặt phố,Hà Đông,14/05/2024,40 m²,10 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,4 m
+39848792,Nhà riêng,Hà Đông,14/05/2024,60 m²,"8,8 tỷ",Sổ đỏ,Cơ bản,4 phòng,4 phòng,4 tầng,,,,
+39849141,Nhà riêng,Đống Đa,14/05/2024,42 m²,"3,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,2 phòng,,,,,
+39536735,Nhà riêng,Ba Đình,10/05/2024,32 m²,"6,2 tỷ",Sổ đỏ,Cơ bản,3 phòng,4 phòng,5 tầng,,,"4,5 m",4 m
+39848909,Nhà riêng,Hai Bà Trưng,14/05/2024,78 m²,"16,8 tỷ",,,8 phòng,8 phòng,7 tầng,,,6 m,"5,8 m"
+39829252,Nhà riêng,Thanh Xuân,12/05/2024,45 m²,"8,9 tỷ",Ngõ 114,,3 phòng,3 phòng,4 tầng,,,"2,5 m",4 m
+39849627,Nhà riêng,Ba Đình,14/05/2024,38 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,"2,4 m","3,4 m"
+39830516,Nhà riêng,Tây Hồ,12/05/2024,45 m²,"7,85 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,4 phòng,5 tầng,,,"2,5 m","4,1 m"
+39849100,Nhà riêng,Hoài Đức,14/05/2024,35 m²,4 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,,,,
+39849505,Nhà riêng,Hoài Đức,14/05/2024,38 m²,"5,15 tỷ",Sổ đỏ/ Sổ hồng.,,5 phòng,4 phòng,5 tầng,Đông - Bắc,Đông - Bắc,"3,5 m","3,5 m"
+39735838,Nhà biệt thự liền kề,Đông Anh,14/05/2024,75 m²,Thỏa thuận,Hợp đồng mua bán,Không nội thất,4 phòng,4 phòng,5 tầng,Nam,Đông - Nam,40 m,5 m
+39787286,Nhà riêng,Hà Đông,08/05/2024,32 m²,"4,2 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,5 tầng,Bắc,Tây - Bắc,"2,2 m",4 m
+39787089,Nhà mặt phố,Hà Đông,08/05/2024,54 m²,"11,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,Đông,Đông,8 m,4 m
+39849623,Nhà riêng,Ba Đình,14/05/2024,50 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,5 tầng,,,3 m,4 m
+39831994,Nhà riêng,Hà Đông,13/05/2024,45 m²,"7,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,Tây - Bắc,Tây - Bắc,"3,2 m",6 m
+39849220,Nhà riêng,Hoài Đức,14/05/2024,41 m²,"2,95 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
+39843081,Nhà riêng,Hà Đông,14/05/2024,18 m²,"2,69 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,2 phòng,4 tầng,,,6 m,"4,7 m"
+39849704,Nhà biệt thự liền kề,Cầu Giấy,14/05/2024,132 m²,"31,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,Đông - Nam,Đông - Nam,11 m,"6,5 m"
+39849700,Shophouse/Nhà phố thương mại,Long Biên,14/05/2024,80 m²,"4,5 tỷ",Đang chờ sổ,Không nội thất,1 phòng,2 phòng,,,,,
+39849698,Nhà riêng,Thanh Xuân,14/05/2024,45 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,4 tầng,,,,"5,3 m"
+39706511,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,324 m²,"56,7 tỷ",Sổ đỏ/ Sổ hồng,Không nội thất,,,,Đông - Nam,Đông - Bắc,30 m,37 m
+39849444,Nhà riêng,Bắc Từ Liêm,14/05/2024,30 m²,"5,3 tỷ",,,,,,,,,
+39849183,Nhà riêng,Đống Đa,14/05/2024,50 m²,"16,5 tỷ",Sổ đỏ,,,,6 tầng,,,,"6,2 m"
+39849681,Nhà mặt phố,Tây Hồ,14/05/2024,155 m²,290 triệu/m²,Sổ đỏ/ Sổ hồng,Đầy đủ,,,9 tầng,,,,"6,5 m"
+39849379,Nhà riêng,Hai Bà Trưng,14/05/2024,38 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,5 tầng,,,3 m,
+39642268,Shophouse/Nhà phố thương mại,Hoàng Mai,14/05/2024,63 m²,"3,25 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,,,,,
+39849313,Nhà riêng,Thanh Xuân,14/05/2024,55 m²,"9,99 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,,6 tầng,,,,"4,5 m"
+39833280,Nhà riêng,Đống Đa,13/05/2024,35 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,5 phòng,6 tầng,,,,
+39849653,Nhà mặt phố,Thanh Xuân,14/05/2024,134 m²,"32,7 tỷ",Sổ đỏ/ Sổ hồng,,8 phòng,8 phòng,8 tầng,,,6 m,"5,4 m"
+37695731,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,150 m²,26 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,5 phòng,3 phòng,3 tầng,Nam,Đông,15 m,10 m
+39810167,Nhà riêng,Ba Đình,10/05/2024,50 m²,"7,9 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,5 phòng,6 tầng,,,"2,3 m",6 m
+39734063,Nhà riêng,Bắc Từ Liêm,02/05/2024,39 m²,"6,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,5 phòng,6 tầng,,,"2,6 m","4,3 m"
+39811924,Nhà riêng,Ba Đình,10/05/2024,48 m²,"5,25 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,2 phòng,3 tầng,,,"2,3 m",
+39787396,Nhà riêng,Hà Đông,08/05/2024,45 m²,"9,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,Đông - Nam,Đông - Nam,8 m,"3,2 m"
+39787219,Nhà riêng,Hà Đông,08/05/2024,34 m²,"4,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,5 tầng,Tây - Bắc,Tây - Bắc,"2,2 m",5 m
+39848923,Nhà riêng,Hai Bà Trưng,14/05/2024,85 m²,"16,8 tỷ",,,5 phòng,5 phòng,7 tầng,,,5 m,6 m
+39787428,Nhà riêng,Hà Đông,08/05/2024,41 m²,"5,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,3 tầng,Đông,Đông,"2,5 m",4 m
+38419945,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,135 m²,22 tỷ,Sổ đỏ.,,2 phòng,3 phòng,4 tầng,Nam,,,
+39848931,Nhà riêng,Đống Đa,14/05/2024,52 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,Full nội thất xịn.,10 phòng,6 phòng,6 tầng,,,,"4,2 m"
+39849571,Nhà riêng,Hoài Đức,14/05/2024,30 m²,"2,35 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,3 tầng,,,3 m,"3,8 m"
+37257973,Nhà mặt phố,Cầu Giấy,14/05/2024,300 m²,218 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,8 tầng,,,,
+39848904,Nhà riêng,Thanh Xuân,14/05/2024,50 m²,"8,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,,,4 tầng,,,3 m,"8,5 m"
+37956018,Nhà biệt thự liền kề,Cầu Giấy,14/05/2024,135 m²,36 tỷ,,,,,4 tầng,,,20 m,9 m
+39642794,Nhà riêng,Long Biên,14/05/2024,"87,5 m²",38 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,Đông - Bắc,Đông - Bắc,18 m,5 m
+38572388,Nhà mặt phố,Cầu Giấy,14/05/2024,90 m²,36 tỷ,Sổ đỏ,,,,5 tầng,,,30 m,5 m
+39848888,Nhà riêng,Hoài Đức,14/05/2024,40 m²,"3,75 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,,4 tầng,,,,
+39283817,Nhà riêng,Tây Hồ,09/05/2024,35 m²,5 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,2 phòng,2 tầng,Tây - Nam,,,"3,8 m"
+37884997,Nhà biệt thự liền kề,Cầu Giấy,10/05/2024,100 m²,25 tỷ,,,4 phòng,4 phòng,5 tầng,,,10 m,"5,5 m"
+39711701,Nhà biệt thự liền kề,Tây Hồ,10/05/2024,180 m²,"55,9 tỷ",Sổ đỏ/ Sổ hồng,Cao cấp,3 phòng,4 phòng,3 tầng,Tây - Nam,,10 m,9 m
+39387060,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,115 m²,30 tỷ,,,,,4 tầng,,,20 m,"7,6 m"
+39608486,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,300 m²,68 tỷ,Sổ đỏ/ Sổ hồng.,,,,4 tầng,,,25 m,
+37955885,Nhà biệt thự liền kề,Cầu Giấy,14/05/2024,200 m²,68 tỷ,,,,,4 tầng,,,20 m,15 m
+39848925,Nhà riêng,Hoài Đức,14/05/2024,43 m²,"4,3 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
+39849534,Nhà mặt phố,Cầu Giấy,14/05/2024,90 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,9 tầng,,,40 m,6 m
+39849530,Nhà mặt phố,Thanh Xuân,14/05/2024,80 m²,57 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,9 tầng,Đông - Nam,Đông - Nam,10 m,7 m
+39849528,Nhà riêng,Bắc Từ Liêm,14/05/2024,60 m²,"3,35 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,2 phòng,3 tầng,Tây - Bắc,Tây - Bắc,"2,5 m","4,5 m"
+39849512,Nhà mặt phố,Thanh Xuân,14/05/2024,65 m²,"16,2 tỷ",Sổ đỏ/ Sổ hồng,,1 phòng,1 phòng,1 tầng,,,6 m,"3,8 m"
+38827755,Nhà mặt phố,Cầu Giấy,14/05/2024,100 m²,34 tỷ,,,,,7 tầng,,,20 m,10 m
+39694934,Nhà biệt thự liền kề,Nam Từ Liêm,10/05/2024,142 m²,49 tỷ,,,,,4 tầng,,,17 m,"6,6 m"
+39849484,Nhà riêng,Ba Đình,14/05/2024,41 m²,"6,5 tỷ",Sổ đỏ,Đầy đủ,4 phòng,3 phòng,5 tầng,,,,
+39849260,Nhà biệt thự liền kề,Hà Đông,14/05/2024,170 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,"21,5 m",
+39849365,Nhà riêng,Quốc Oai,14/05/2024,90 m²,"2,95 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ,4 phòng,3 phòng,4 tầng,,,,4 m
+37511186,Nhà mặt phố,Gia Lâm,14/05/2024,160 m²,"15,5 tỷ",,,,,,,,,9 m
+39849190,Nhà riêng,Cầu Giấy,14/05/2024,70 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,10 m
+39770705,Nhà biệt thự liền kề,Bắc Từ Liêm,07/05/2024,342 m²,Thỏa thuận,Sổ đỏ,,,,,,,,
+39598943,Nhà riêng,Đống Đa,02/05/2024,250 m²,"58,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,4 tầng,,,,"7,5 m"
+36881401,Shophouse/Nhà phố thương mại,Bắc Từ Liêm,22/04/2024,136 m²,33 tỷ,Sổ đỏ/ Sổ hồng,Bàn giao thô,,,6 tầng,,,40 m,12 m
+38780316,Nhà biệt thự liền kề,Hà Đông,14/05/2024,91 m²,18 tỷ,Đã có sổ,Cơ bản,4 phòng,4 phòng,4 tầng,,,48 m,"4,5 m"
+39849193,Nhà biệt thự liền kề,Long Biên,14/05/2024,155 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,,,,Đông - Nam,,,
+37511186,Nhà mặt phố,Gia Lâm,14/05/2024,160 m²,"15,5 tỷ",,,,,,,,,9 m
+39637500,Nhà riêng,Bắc Từ Liêm,04/05/2024,32 m²,"4,24 tỷ",Sổ đỏ/ Sổ hồng,,2 phòng,1 phòng,2 tầng,,,3 m,4 m
+39849460,Nhà riêng,Hoàng Mai,14/05/2024,41 m²,"5,79 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,,,3 m,"3,15 m"
+39431075,Nhà riêng,Hà Đông,14/05/2024,"33,3 m²","2,7 tỷ",Sổ đỏ.,Cơ bản.,3 phòng,4 phòng,5 tầng,Tây - Bắc,Tây - Bắc,"3,6 m","4,52 m"
+39848422,Nhà riêng,Hoàn Kiếm,14/05/2024,95 m²,430 triệu/m²,Sổ đỏ/ Sổ hồng,,,,,,,,5 m
+39848437,Nhà riêng,Thanh Trì,14/05/2024,105 m²,"9,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,4 tầng,,,"4,5 m",7 m
+39637500,Nhà riêng,Bắc Từ Liêm,04/05/2024,32 m²,"4,24 tỷ",Sổ đỏ/ Sổ hồng,,2 phòng,1 phòng,2 tầng,,,3 m,4 m
+39687518,Nhà riêng,Hai Bà Trưng,25/04/2024,51 m²,"17,3 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,5 phòng,5 tầng,,,15 m,"7,5 m"
+39849376,Nhà mặt phố,Đống Đa,14/05/2024,159 m²,110 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,8 tầng,,,,"5,51 m"
+39849457,Nhà riêng,Hoàng Mai,14/05/2024,80 m²,"17,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,,
+39848502,Nhà riêng,Đống Đa,14/05/2024,134 m²,40 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,
+39799951,Nhà mặt phố,Hai Bà Trưng,09/05/2024,342 m²,"173,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,1 phòng,1 phòng,1 tầng,,,20 m,12 m
+39789723,Nhà riêng,Hoàn Kiếm,08/05/2024,115 m²,"45,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,20 phòng,20 phòng,8 tầng,,,10 m,"6,4 m"
+39504027,Nhà riêng,Long Biên,14/05/2024,88 m²,23 tỷ,Sổ đỏ/ Sổ hồng.,Đầy đủ.,4 phòng,4 phòng,5 tầng,,,,6 m
+39782983,Nhà riêng,Hai Bà Trưng,08/05/2024,50 m²,"21,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,,,15 m,"4,7 m"
+39849074,Nhà riêng,Thanh Xuân,14/05/2024,46 m²,"8,5 tỷ",- Sổ đỏ cam kết vuông vắn sẵn sàng giao dịch.,Đầy đủ full nội thất xịn.,10 phòng,10 phòng,6 tầng,,,"2,5 m","7,5 m"
+39849450,Nhà riêng,Hai Bà Trưng,14/05/2024,80 m²,11 tỷ,Sổ đỏ/ Sổ hồng,,18 phòng,18 phòng,7 tầng,,,3 m,5 m
+39795944,Nhà riêng,Hai Bà Trưng,09/05/2024,33 m²,"7,2 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ.,4 phòng,3 phòng,4 tầng,,,4 m,"4,4 m"
+39804384,Nhà riêng,Hoàng Mai,09/05/2024,138 m²,"24,8 tỷ",Sổ đỏ,Đầy đủ,4 phòng,4 phòng,4 tầng,,,15 m,"5,1 m"
+39849126,Nhà riêng,Long Biên,14/05/2024,70 m²,120 triệu/m²,Sổ đỏ/ Sổ hồng,Không nội thất,3 phòng,,4 tầng,Đông - Nam,,,"3,3 m"
+38384115,Nhà riêng,Thanh Xuân,14/05/2024,55 m²,"16,5 tỷ",Sổ đỏ chính chủ.,,,,5 tầng,,,10 m,"4,5 m"
+39848746,Nhà riêng,Bắc Từ Liêm,14/05/2024,35 m²,"6,9 tỷ",Sổ đỏ/ Sổ hồng.,,3 phòng,,6 tầng,,,,
+39846695,Nhà biệt thự liền kề,Đan Phượng,14/05/2024,"91,5 m²",14 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,9 phòng,6 phòng,5 tầng,,,27 m,
+39849105,Nhà riêng,Nam Từ Liêm,14/05/2024,70 m²,"12,65 tỷ",- Sổ đỏ sẵn sàng giao dịch..,"Đầy đủ - Thang máy xịn, điều hòa, full nội thất, cửa kính cao cấp.",21 phòng,21 phòng,7 tầng,,,,
+39779517,Nhà mặt phố,Tây Hồ,07/05/2024,155 m²,45 tỷ,Sổ đỏ/ Sổ hồng,,,,9 tầng,,,,
+39849358,Nhà riêng,Tây Hồ,14/05/2024,45 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,6 phòng,7 tầng,,,,4 m
+39848319,Nhà riêng,Cầu Giấy,14/05/2024,55 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,6 tầng,,,,
+39389611,Nhà riêng,Gia Lâm,14/05/2024,100 m²,"8,2 tỷ",,,,,,,,,8 m
+39645512,Nhà riêng,Thanh Oai,11/05/2024,40 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,2 phòng,2 phòng,3 tầng,,,,
+39848271,Nhà riêng,Hoàng Mai,14/05/2024,140 m²,25 tỷ,Sổ đỏ.,,,,4 tầng,,,,
+39846099,Nhà mặt phố,Đống Đa,14/05/2024,50 m²,"23,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,50 m,"4,8 m"
+39822869,Nhà riêng,Đống Đa,11/05/2024,51 m²,"25,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,7 phòng,7 tầng,,,,5 m
+39837316,Nhà riêng,Bắc Từ Liêm,13/05/2024,60 m²,"8,8 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,,,3 m,"4,51 m"
+39849349,Nhà riêng,Hai Bà Trưng,14/05/2024,20 m²,"2,68 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,2 phòng,3 phòng,4 tầng,,,,"3,7 m"
+39848630,Nhà riêng,Long Biên,14/05/2024,52 m²,"5,9 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,5 tầng,Đông - Bắc,Tây - Nam,5 m,6 m
+39809913,Nhà biệt thự liền kề,Hà Đông,10/05/2024,180 m²,170 triệu/m²,Sổ đỏ/ Sổ hồng,,5 phòng,3 phòng,4 tầng,Đông - Nam,Đông - Nam,"11,5 m",9 m
+39849347,Nhà riêng,Cầu Giấy,14/05/2024,45 m²,"8,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,
+39629981,Nhà mặt phố,Đống Đa,14/05/2024,92 m²,"29,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,
+39600656,Nhà biệt thự liền kề,Hà Đông,06/05/2024,180 m²,150 triệu/m²,Sổ đỏ,,5 phòng,3 phòng,4 tầng,Tây - Bắc,Tây - Bắc,20 m,9 m
+39793478,Nhà biệt thự liền kề,Nam Từ Liêm,08/05/2024,120 m²,38 tỷ,Sẵn sổ đỏ cầm tay.,,,,5 tầng,,,,6 m
+39591896,Nhà mặt phố,Cầu Giấy,14/05/2024,46 m²,"15,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,20 m,4 m
+39662921,Nhà mặt phố,Hai Bà Trưng,14/05/2024,34 m²,"24,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,
+39849336,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,214 m²,"49,5 tỷ",Chủ đang chờ cấp sổ,Đầy đủ,6 phòng,6 phòng,4 tầng,,,12 m,11 m
+35579332,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,200 m²,Thỏa thuận,Hợp đồng mua bán,Xây thô hoàn thiện mặt ngoài CĐT.,5 phòng,5 phòng,3 tầng,Đông - Nam,Đông - Nam,20 m,9 m
+39626573,Nhà riêng,Đống Đa,14/05/2024,90 m²,30 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,"5,5 m"
+39849331,Nhà riêng,Hoàng Mai,14/05/2024,83 m²,"17,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,,4 tầng,,,,8 m
+39512248,Nhà riêng,Đống Đa,06/05/2024,52 m²,"17,6 tỷ",Có sổ,,,,6 tầng,,,,4 m
+39793471,Nhà riêng,Nam Từ Liêm,08/05/2024,62 m²,"7,9 tỷ","- Sổ đỏ chính chủ, sẵn sàng giao dịch.",Đầy đủ.,3 phòng,,5 tầng,,,,
+39848774,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,"150,3 m²",31 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,,3 tầng,Tây - Bắc,Tây - Bắc,13 m,"8,5 m"
+39849329,Nhà riêng,Ba Đình,14/05/2024,45 m²,"14,6 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,5 tầng,,,4 m,"3,3 m"
+39653084,Nhà riêng,Ba Đình,14/05/2024,60 m²,14 tỷ,Sổ đỏ,Đầy đủ,6 phòng,7 phòng,6 tầng,,,6 m,"5,5 m"
+39377357,Nhà mặt phố,Tây Hồ,14/05/2024,130 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,7 phòng,4 tầng,,,15 m,"9,5 m"
+39848198,Nhà riêng,Đống Đa,14/05/2024,55 m²,"13,2 tỷ",Sổ đỏ,,,,4 tầng,,,,4 m
+39675285,Nhà riêng,Nam Từ Liêm,07/05/2024,60 m²,12 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,17 phòng,17 phòng,7 tầng,,,,
+39410993,Nhà mặt phố,Bắc Từ Liêm,11/05/2024,180 m²,"39,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,7 tầng,,,50 m,"10,7 m"
+39068355,Nhà riêng,Thanh Trì,14/05/2024,55 m²,"13,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,18 phòng,18 phòng,8 tầng,,,,
+39545276,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,191 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,15 m,11 m
+39683041,Nhà biệt thự liền kề,Hà Đông,10/05/2024,198 m²,Thỏa thuận,,,,,,,,"23,5 m",
+39631952,Nhà riêng,Ba Đình,11/05/2024,45 m²,"12,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,5 tầng,Đông - Bắc,Đông - Bắc,3 m,"4,5 m"
+39163050,Nhà riêng,Ba Đình,14/05/2024,35 m²,"6,25 tỷ",Sổ đỏ,Cơ bản,3 phòng,3 phòng,5 tầng,,,,
+39812446,Nhà riêng,Hoài Đức,10/05/2024,35 m²,"3,6 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,4 phòng,5 tầng,,,,
+37877587,Nhà riêng,Cầu Giấy,14/05/2024,100 m²,16 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,6 m,"5,6 m"
+39613950,Nhà riêng,Hoài Đức,09/05/2024,35 m²,"3,6 tỷ",Sổ đỏ/ Sổ hồng,"Nội thất cơ bản, giường tủ, thiết bị vệ sinh, nóng lạnh.",3 phòng,4 phòng,5 tầng,,,,
+39705413,Nhà riêng,Cầu Giấy,14/05/2024,55 m²,12 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,3 tầng,,,7 m,"5,3 m"
+39401592,Nhà riêng,Tây Hồ,14/05/2024,100 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,6 phòng,5 tầng,,,10 m,"8,7 m"
+39849259,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,110 m²,"22,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,,,,,8 m
+39844753,Nhà riêng,Long Biên,14/05/2024,42 m²,"7,5 tỷ",Sổ đỏ/ Sổ hồng.,Cơ bản,3 phòng,3 phòng,5 tầng,,,6 m,"4,5 m"
+39848624,Nhà riêng,Đống Đa,14/05/2024,52 m²,"13,2 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,,4 tầng,,,4 m,"4,5 m"
+39849241,Nhà riêng,Bắc Từ Liêm,14/05/2024,55 m²,"6,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,4 tầng,,,,4 m
+39848846,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,62 m²,250 triệu/m²,Sổ đỏ/ Sổ hồng,Đầy đủ.,,,5 tầng,Đông,Đông,,4 m
+39699917,Nhà riêng,Thanh Xuân,06/05/2024,"56,8 m²","6,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,3 tầng,,,,"5,8 m"
+39849240,Nhà mặt phố,Hai Bà Trưng,14/05/2024,158 m²,55 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,5 phòng,3 tầng,Nam,Nam,40 m,"6,5 m"
+39848861,Nhà riêng,Hai Bà Trưng,14/05/2024,83 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,,,,7 tầng,,,,6 m
+39849235,Nhà riêng,Đống Đa,14/05/2024,37 m²,"4,79 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,,5 tầng,,,,"3,7 m"
+39176623,Nhà biệt thự liền kề,Hà Đông,14/05/2024,170 m²,23 tỷ,Sổ đỏ,,,,4 tầng,,,,
+39709661,Nhà riêng,Hà Đông,14/05/2024,48 m²,"8,09 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,4 tầng,,,3 m,"3,8 m"
+39582163,Nhà riêng,Đống Đa,14/05/2024,76 m²,"7,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,,,,
+39592317,Nhà biệt thự liền kề,Long Biên,05/05/2024,200 m²,38 tỷ,Sổ đỏ.,,,,,,,,
+34416239,Nhà biệt thự liền kề,Long Biên,12/05/2024,550 m²,122 tỷ,Sổ đỏ.,Không nội thất,,,3 tầng,,,,
+39848834,Nhà riêng,Bắc Từ Liêm,14/05/2024,38 m²,"7,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,8 phòng,5 phòng,6 tầng,,,,
+39849180,Nhà riêng,Hai Bà Trưng,14/05/2024,83 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,,7 tầng,,,,"5,8 m"
+39849187,Nhà riêng,Thanh Trì,14/05/2024,83 m²,25 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,16 m
+39849189,Nhà riêng,Long Biên,14/05/2024,55 m²,"9,8 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,,5 tầng,,,6 m,
+39848865,Nhà riêng,Long Biên,14/05/2024,47 m²,4 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,4 phòng,5 tầng,,,3 m,4 m
+39848813,Nhà riêng,Bắc Từ Liêm,14/05/2024,160 m²,"16,5 tỷ",Sổ đỏ/ Sổ hồng.,Cơ bản.,6 phòng,4 phòng,5 tầng,,,3 m,"7,5 m"
+39849155,Nhà riêng,Tây Hồ,14/05/2024,30 m²,"7,7 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,5 phòng,6 tầng,,,"2,7 m","3,3 m"
+39849176,Nhà riêng,Thanh Xuân,14/05/2024,45 m²,"7,55 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,4 phòng,4 tầng,Tây - Nam,Tây - Nam,3 m,5 m
+39849173,Nhà mặt phố,Đống Đa,14/05/2024,45 m²,"12,5 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,,5 tầng,,,6 m,4 m
+39848097,Nhà riêng,Cầu Giấy,14/05/2024,56 m²,"6,89 tỷ",,Đầy đủ,3 phòng,3 phòng,3 tầng,,,,
+39635452,Nhà mặt phố,Cầu Giấy,12/05/2024,102 m²,27 tỷ,Sổ đỏ/ Sổ hồng,Cơ bản,3 phòng,3 phòng,3 tầng,,,7 m,"4,4 m"
+39690786,Nhà riêng,Nam Từ Liêm,12/05/2024,150 m²,35 tỷ,Sổ đỏ/ Sổ hồng.,"Đầy đủ nhà mới hoàn thiện, mới tinh, thiết hiện đại, đầy đủ nội thất, thang máy.",37 phòng,36 phòng,10 tầng,,,5 m,10 m
+39848716,Nhà mặt phố,Hoàn Kiếm,14/05/2024,45 m²,"39,5 tỷ",,,8 phòng,8 phòng,9 tầng,,,,4 m
+39849148,Nhà riêng,Hai Bà Trưng,14/05/2024,96 m²,"14,15 tỷ",,,,,7 tầng,,,,
+39848968,Nhà riêng,Long Biên,14/05/2024,40 m²,"4,5 tỷ",,,,,4 tầng,,,,
+39849093,Nhà biệt thự liền kề,Long Biên,14/05/2024,400 m²,"109,99 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản,4 phòng,6 phòng,4 tầng,Đông - Nam,Tây - Bắc,15 m,10 m
+39571246,Nhà riêng,Tây Hồ,14/05/2024,52 m²,10 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,5 m,4 m
+39461677,Nhà riêng,Tây Hồ,14/05/2024,55 m²,15 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,7 phòng,8 tầng,,,5 m,"4,2 m"
+39849008,Nhà riêng,Hai Bà Trưng,14/05/2024,80 m²,"16,8 tỷ",Sổ đỏ/ Sổ hồng,,,,7 tầng,,,,"5,8 m"
+39498286,Nhà riêng,Đống Đa,10/05/2024,58 m²,11 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,6 tầng,Tây - Bắc,Tây - Bắc,"2,2 m",4 m
+39827996,Nhà riêng,Bắc Từ Liêm,12/05/2024,31 m²,"4,35 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,,,,
+39848971,Shophouse/Nhà phố thương mại,Hoàng Mai,14/05/2024,35 m²,4 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ.,,,,,,,
+39713977,Nhà riêng,Nam Từ Liêm,10/05/2024,160 m²,"19,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,27 phòng,27 phòng,7 tầng,Đông - Bắc,Đông - Bắc,3 m,15 m
+39707831,Nhà riêng,Cầu Giấy,14/05/2024,55 m²,14 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,6 m,4 m
+39642798,Nhà riêng,Tây Hồ,14/05/2024,48 m²,"10,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,3 phòng,4 tầng,Tây - Bắc,Tây - Bắc,3 m,4 m
+38396708,Nhà riêng,Đống Đa,10/05/2024,95 m²,18 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,26 phòng,26 phòng,9 tầng,,,3 m,5 m
+39849030,Nhà riêng,Hoàng Mai,14/05/2024,45 m²,"8,35 tỷ",Sổ đỏ/ Sổ hồng.,Cơ bản,3 phòng,3 phòng,4 tầng,,,7 m,4 m
+39826653,Nhà biệt thự liền kề,Gia Lâm,12/05/2024,90 m²,23 tỷ,Sổ đỏ/ Sổ hồng.,,,,,Đông - Nam,,,
+39261195,Nhà riêng,Ba Đình,14/05/2024,55 m²,"11,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,Tây - Bắc,Tây - Bắc,3 m,4 m
+39831634,Nhà riêng,Đống Đa,13/05/2024,42 m²,"7,6 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,4 tầng,Bắc,,,"3,2 m"
+39150125,Nhà riêng,Ba Đình,14/05/2024,33 m²,"6,25 tỷ",Sổ đỏ,Cơ bản,3 phòng,4 phòng,5 tầng,,,,
+36769170,Nhà biệt thự liền kề,Hà Đông,14/05/2024,"82,5 m²",13 tỷ,SĐCC.,,,,4 tầng,,,,
+39848836,Nhà riêng,Nam Từ Liêm,14/05/2024,69 m²,"13,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,5 phòng,5 phòng,4 tầng,,,5 m,"4,5 m"
+38401066,Nhà riêng,Hoài Đức,14/05/2024,32 m²,"3,2 tỷ",,,3 phòng,3 phòng,5 tầng,,,3 m,
+39848046,Nhà mặt phố,Cầu Giấy,14/05/2024,98 m²,56 tỷ,Sổ đỏ,Đầy đủ,6 phòng,6 phòng,5 tầng,,,,"6,5 m"
+39548016,Nhà riêng,Nam Từ Liêm,14/05/2024,32 m²,"3,8 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,3 phòng,5 tầng,,,,
+39848353,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,60 m²,"14,5 tỷ",Sổ đỏ/ Sổ hồng,Không nội thất,4 phòng,4 phòng,5 tầng,,,,5 m
+39436218,Nhà riêng,Tây Hồ,14/05/2024,100 m²,25 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,20 phòng,20 phòng,7 tầng,,,3 m,"5,7 m"
+39764373,Nhà biệt thự liền kề,Hoài Đức,06/05/2024,126 m²,133 triệu/m²,,,,,5 tầng,,,,
+39849049,Nhà riêng,Long Biên,14/05/2024,105 m²,"17,5 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ,6 phòng,5 phòng,5 tầng,,,4 m,"6,2 m"
+39538150,Nhà riêng,Hà Đông,14/05/2024,39 m²,"9,68 tỷ",Sổ đỏ,,3 phòng,4 phòng,6 tầng,,,10 m,"3,5 m"
+38927470,Nhà riêng,Thanh Xuân,08/05/2024,80 m²,12 tỷ,"Đã có sổ, giao dịch ngay",Full NT,21 phòng,21 phòng,7 tầng,,,3 m,14 m
+39848014,Nhà riêng,Cầu Giấy,14/05/2024,40 m²,10 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,5 phòng,6 tầng,,,,
+38271389,Nhà mặt phố,Cầu Giấy,14/05/2024,105 m²,26 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,4 phòng,4 tầng,,,10 m,"7,3 m"
+39712155,Nhà riêng,Thanh Trì,09/05/2024,50 m²,"10,9 tỷ",,Full NT.,,,7 tầng,,,4 m,
+39724455,Nhà riêng,Ba Đình,14/05/2024,75 m²,17 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,5 phòng,5 tầng,,,6 m,4 m
+39821438,Nhà riêng,Đống Đa,11/05/2024,50 m²,"13,75 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,6 phòng,8 tầng,,,"5,3 m","4,1 m"
+39846461,Nhà mặt phố,Hai Bà Trưng,14/05/2024,105 m²,"73,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,6 m
+39855796,Nhà biệt thự liền kề,Hoàng Mai,15/05/2024,930 m²,138 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,9 phòng,9 phòng,4 tầng,Đông - Nam,Đông - Nam,35 m,30 m
+39847124,Shophouse/Nhà phố thương mại,Hoàng Mai,14/05/2024,102 m²,47 tỷ,Sổ đỏ/ Sổ hồng,,5 phòng,4 phòng,5 tầng,,,30 m,
+39844152,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,75 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,5 phòng,4 tầng,Đông - Nam,Đông - Nam,34 m,5 m
+39748332,Shophouse/Nhà phố thương mại,Hoàng Mai,14/05/2024,75 m²,28 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ.,,,5 tầng,,,,
+39837906,Nhà riêng,Đống Đa,13/05/2024,40 m²,"5,85 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
+39846179,Nhà biệt thự liền kề,Hà Đông,14/05/2024,55 m²,"10,9 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,3 phòng,4 tầng,Nam,Nam,8 m,7 m
+38988462,Nhà biệt thự liền kề,Tây Hồ,12/05/2024,240 m²,Thỏa thuận,,,,,,,,,
+39728969,Nhà biệt thự liền kề,Hà Đông,02/05/2024,100 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,
+39845926,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,159 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,5 phòng,5 tầng,Đông - Nam,,,
+39845222,Nhà biệt thự liền kề,Hà Đông,14/05/2024,80 m²,"13,85 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,4 tầng,Tây - Bắc,Tây - Bắc,"13,5 m",4 m
+38747252,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,315 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,5 phòng,5 phòng,5 tầng,Đông - Nam,,,25 m
+39842963,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,288 m²,53 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,,4 phòng,4 tầng,,,,
+39451814,Nhà biệt thự liền kề,Tây Hồ,06/05/2024,180 m²,260 triệu/m²,Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,Đông - Nam,30 m,10 m
+39537301,Nhà biệt thự liền kề,Hoài Đức,14/05/2024,80 m²,Thỏa thuận,,,,,,Đông - Nam,Đông - Nam,14 m,8 m
+36898311,Nhà biệt thự liền kề,Long Biên,14/05/2024,200 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,3 tầng,Đông - Nam,Tây - Bắc,15 m,10 m
+39658421,Nhà biệt thự liền kề,Hoàng Mai,07/05/2024,"107,5 m²",137 triệu/m²,Có sổ.,,,,5 tầng,,,"13,5 m",5 m
+39843471,Nhà riêng,Thanh Trì,14/05/2024,33 m²,"3,59 tỷ",Sổ đỏ/ Sổ hồng,,3 phòng,4 phòng,5 tầng,Bắc,Bắc,2 m,4 m
+39841621,Nhà riêng,Hoàng Mai,14/05/2024,55 m²,"5,9 tỷ",Sổ đỏ/ Sổ hồng.,,4 phòng,4 phòng,5 tầng,Đông - Nam,,3 m,"4,5 m"
+39276948,Nhà riêng,Đống Đa,13/05/2024,45 m²,"5,7 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,3 phòng,4 tầng,Đông,Đông,2 m,"6,2 m"
+39838091,Nhà riêng,Đống Đa,13/05/2024,50 m²,"7,95 tỷ",,,,,4 tầng,,,,"3,7 m"
+38033293,Nhà riêng,Thạch Thất,13/05/2024,69 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,
+39807049,Nhà mặt phố,Bắc Từ Liêm,10/05/2024,120 m²,29 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,6 m
+39434048,Nhà riêng,Cầu Giấy,12/05/2024,60 m²,"20,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,"4,2 m"
+37679105,Nhà biệt thự liền kề,Hoàng Mai,09/05/2024,75 m²,19 tỷ,,Full nội thất.,6 phòng,6 phòng,5 tầng,,,10 m,6 m
+35445673,Nhà biệt thự liền kề,Hà Đông,10/05/2024,200 m²,25 tỷ,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,
+39817724,Nhà biệt thự liền kề,Gia Lâm,11/05/2024,300 m²,90 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,
+39823097,Nhà riêng,Long Biên,11/05/2024,32 m²,"5,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,Đông - Nam,,3 m,5 m
+39794241,Nhà biệt thự liền kề,Hoài Đức,08/05/2024,135 m²,Thỏa thuận,,,,,5 tầng,,,,"7,5 m"
+39308186,Nhà biệt thự liền kề,Hà Đông,10/05/2024,80 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,Đông - Nam,,
+39678437,Nhà biệt thự liền kề,Nam Từ Liêm,10/05/2024,236 m²,"58,8 tỷ",,,,,,,,,
+39810661,Nhà biệt thự liền kề,Hà Đông,10/05/2024,225 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,Đông - Nam,,
+38850463,Nhà biệt thự liền kề,Hà Đông,07/05/2024,200 m²,Thỏa thuận,Sổ đỏ,,,,,,,,
+38311318,Nhà biệt thự liền kề,Hà Đông,09/05/2024,120 m²,"14,8 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,Đông - Nam,Tây - Bắc,"13,5 m",6 m
+39860782,Nhà riêng,Hà Đông,15/05/2024,30 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,3 phòng,3 phòng,4 tầng,,,,
+39767281,Nhà biệt thự liền kề,Gia Lâm,06/05/2024,150 m²,"23,5 tỷ",Sổ đỏ/ Sổ hồng,Cơ bản.,,,4 tầng,Đông - Nam,Đông - Nam,"13,5 m",10 m
+39857908,Nhà biệt thự liền kề,Hoài Đức,15/05/2024,126 m²,19 tỷ,,,,,,,,,
+39391268,Nhà biệt thự liền kề,Gia Lâm,15/05/2024,150 m²,23 tỷ,Sổ đỏ/ Sổ hồng,,,,,,,,
+39568696,Nhà biệt thự liền kề,Nam Từ Liêm,15/05/2024,100 m²,"14,3 tỷ",Sổ đỏ/ Sổ hồng.,Đầy đủ,5 phòng,5 phòng,4 tầng,Đông - Nam,Đông - Nam,24 m,5 m
+39036395,Nhà riêng,Đống Đa,11/05/2024,60 m²,26 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,6 phòng,7 tầng,,,4 m,10 m
+39793474,Nhà biệt thự liền kề,Gia Lâm,15/05/2024,153 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Không nội thất,,,4 tầng,Tây - Bắc,,,9 m
+39853710,Nhà riêng,Bắc Từ Liêm,15/05/2024,35 m²,"5,2 tỷ","Sổ đỏ chính chủ, sẵn sàng giao dịch",,,,4 tầng,,,2 m,"4,2 m"
+39274759,Nhà biệt thự liền kề,Gia Lâm,15/05/2024,150 m²,24 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,Đông - Nam,Đông - Nam,,"8,5 m"
+39855626,Nhà biệt thự liền kề,Nam Từ Liêm,15/05/2024,220 m²,48 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,,,,
+39782696,Nhà biệt thự liền kề,Tây Hồ,07/05/2024,215 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,4 tầng,Bắc,Bắc,20 m,10 m
+39341320,Nhà biệt thự liền kề,Tây Hồ,15/05/2024,180 m²,280 triệu/m²,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,4 phòng,3 tầng,,,,
+39090495,Shophouse/Nhà phố thương mại,Thường Tín,12/05/2024,89 m²,"16,5 tỷ",Sổ đỏ/ Sổ hồng,Hoàn thiện mặt ngoài thô bên trong,5 phòng,5 phòng,5 tầng,Đông,Đông,33 m,5 m
+39694132,Nhà biệt thự liền kề,Gia Lâm,15/05/2024,150 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,,,,,Đông - Nam,Tây - Bắc,30 m,"7,5 m"
+39772261,Nhà biệt thự liền kề,Hà Đông,15/05/2024,225 m²,45 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,4 phòng,6 phòng,4 tầng,Tây - Bắc,Tây - Nam,,29 m
+39852341,Nhà riêng,Hai Bà Trưng,15/05/2024,90 m²,"16,3 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,7 tầng,,,,6 m
+39845506,Nhà biệt thự liền kề,Hà Đông,14/05/2024,75 m²,11 tỷ,Sổ đỏ/ Sổ hồng,,,,5 tầng,Tây - Nam,Tây - Nam,16 m,5 m
+39851275,Nhà biệt thự liền kề,Gia Lâm,14/05/2024,280 m²,"63,6 tỷ",Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,,20 m,16 m
+39836167,Nhà mặt phố,Hà Đông,13/05/2024,"67,8 m²",Thỏa thuận,Sổ đỏ chính chủ,,,,1 tầng,,,,"4,8 m"
+39313399,Nhà biệt thự liền kề,Tây Hồ,11/05/2024,240 m²,Thỏa thuận,,,,,,,,,
+39743775,Nhà biệt thự liền kề,Tây Hồ,13/05/2024,180 m²,295 triệu/m²,Sổ đỏ/ Sổ hồng,Đầy đủ,5 phòng,4 phòng,3 tầng,,,,
+37503131,Nhà biệt thự liền kề,Hoài Đức,13/05/2024,210 m²,25 tỷ,,,,,,,,,8 m
+39566968,Nhà biệt thự liền kề,Nam Từ Liêm,13/05/2024,100 m²,Thỏa thuận,,,,,,,,12 m,5 m
+39808695,Nhà biệt thự liền kề,Hà Đông,10/05/2024,100 m²,"13,25 tỷ",Sổ đỏ/ Sổ hồng,Không nội thất,6 phòng,5 phòng,4 tầng,Đông - Nam,Đông - Nam,"13,5 m",6 m
+39809697,Nhà riêng,Thanh Xuân,10/05/2024,50 m²,8 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,10 phòng,10 phòng,6 tầng,,,3 m,"4,8 m"
+39834837,Nhà biệt thự liền kề,Tây Hồ,13/05/2024,230 m²,69 tỷ,Sổ đỏ,,6 phòng,5 phòng,3 tầng,Nam,Nam,30 m,12 m
+32095858,Nhà riêng,Long Biên,13/05/2024,"109,4 m²",95 triệu/m²,Đã có sổ đỏ.,,6 phòng,,1 tầng,Đông - Nam,,"3,5 m","5,5 m"
+39835285,Nhà biệt thự liền kề,Hà Đông,13/05/2024,246 m²,"43,8 tỷ",Sổ đỏ,Đầy đủ,6 phòng,5 phòng,4 tầng,,,,11 m
+39320313,Nhà biệt thự liền kề,Nam Từ Liêm,13/05/2024,200 m²,40 tỷ,,,,,4 tầng,,,,
