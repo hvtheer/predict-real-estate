@@ -1,45 +1,12 @@
-,type_estate,district,price_per_sqm,posted_date,area,price,legal_document,interior,num_bedrooms,num_bathrooms,num_floors,house_orientation,balcony_orientation,entrance,frontage
-0,Nhà mặt phố,Hoàng Mai,"~158,51 triệu/m²",13/05/2024,"220,8 m²",35 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,3 phòng,2 phòng,3 tầng,Nam,Nam,10 m,"6,3 m"
-1,Nhà riêng,Đống Đa,"~146,25 triệu/m²",13/05/2024,40 m²,"5,85 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
-2,"Shophouse, nhà phố thương mại",Hà Đông,"~36,8 triệu/m²",11/05/2024,625 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,13 phòng,12 phòng,,,,40 m,10 m
-3,"Nhà biệt thự, liền kề",Hà Đông,"~173,12 triệu/m²",13/05/2024,80 m²,"13,85 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,4 tầng,,,,
-4,"Nhà biệt thự, liền kề",Hà Đông,,13/05/2024,114 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,
-5,"Nhà biệt thự, liền kề",Hà Đông,,02/05/2024,100 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,
-6,"Nhà biệt thự, liền kề",Hà Đông,~130 triệu/m²,13/05/2024,100 m²,13 tỷ,,,,,,,,,
-7,"Nhà biệt thự, liền kề",Long Biên,,12/05/2024,220 m²,Thỏa thuận,,,,,,,,,
-8,"Shophouse, nhà phố thương mại",Thường Tín,,12/05/2024,89 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Không nội thất,3 phòng,,,Nam,Nam,,
-9,Nhà riêng,Long Biên,"~168,75 triệu/m²",11/05/2024,32 m²,"5,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,Đông - Nam,,3 m,5 m
-10,"Nhà biệt thự, liền kề",Hà Đông,~125 triệu/m²,10/05/2024,200 m²,25 tỷ,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,
-11,Nhà mặt phố,Bắc Từ Liêm,"~241,67 triệu/m²",10/05/2024,120 m²,29 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,5 m
-12,"Nhà biệt thự, liền kề",Hoài Đức,~200 triệu/m²,10/05/2024,80 m²,16 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,25 phòng,25 phòng,7 tầng,Đông - Nam,Đông - Nam,15 m,18 m
-13,,,,,,,,,,,,,,,
-14,"Nhà biệt thự, liền kề",Nam Từ Liêm,"~249,15 triệu/m²",10/05/2024,236 m²,"58,8 tỷ",,,,,,,,,
-15,"Nhà biệt thự, liền kề",Hà Đông,,10/05/2024,225 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,Đông - Nam,,
-16,Nhà riêng,Thanh Xuân,"~212,86 triệu/m²",08/05/2024,70 m²,"14,9 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,4 phòng,4 tầng,,,,
-17,"Nhà biệt thự, liền kề",Hà Đông,,10/05/2024,80 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,Đông - Nam,,
-18,,,,,,,,,,,,,,,
-19,"Nhà biệt thự, liền kề",Hà Đông,"~140,62 triệu/m²",08/05/2024,160 m²,"22,5 tỷ",Sổ đỏ/ Sổ hồng,,8 phòng,6 phòng,4 tầng,,,,5 m
-20,"Nhà biệt thự, liền kề",Hà Đông,"~123,33 triệu/m²",09/05/2024,120 m²,"14,8 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,Đông - Nam,Tây - Bắc,"13,5 m",6 m
-
-,type_estate,district,price_per_sqm,posted_date,area,price,legal_document,interior,num_bedrooms,num_bathrooms,num_floors,house_orientation,balcony_orientation,entrance,frontage
-0,Nhà mặt phố,Hoàng Mai,"~158,51 triệu/m²",13/05/2024,"220,8 m²",35 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,3 phòng,2 phòng,3 tầng,Nam,Nam,10 m,"6,3 m"
-1,"Nhà biệt thự, liền kề",Hà Đông,"~173,12 triệu/m²",13/05/2024,80 m²,"13,85 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,6 phòng,4 phòng,4 tầng,,,,
-2,Nhà riêng,Đống Đa,"~146,25 triệu/m²",13/05/2024,40 m²,"5,85 tỷ",Sổ đỏ/ Sổ hồng,,4 phòng,3 phòng,4 tầng,,,,
-3,"Nhà biệt thự, liền kề",Hà Đông,~130 triệu/m²,13/05/2024,100 m²,13 tỷ,,,,,,,,,
-4,"Shophouse, nhà phố thương mại",Hà Đông,"~36,8 triệu/m²",11/05/2024,625 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,13 phòng,12 phòng,,,,40 m,10 m
-5,"Nhà biệt thự, liền kề",Hà Đông,,02/05/2024,100 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,
-6,Nhà riêng,Long Biên,"~168,75 triệu/m²",11/05/2024,32 m²,"5,4 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,3 phòng,3 phòng,4 tầng,Đông - Nam,,3 m,5 m
-7,,,,,,,,,,,,,,,
-8,,,,,,,,,,,,,,,
-9,"Nhà biệt thự, liền kề",Hà Đông,,13/05/2024,114 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,,,
-10,"Nhà biệt thự, liền kề",Hà Đông,~125 triệu/m²,10/05/2024,200 m²,25 tỷ,Sổ đỏ/ Sổ hồng,,,,4 tầng,,,,
-11,"Nhà biệt thự, liền kề",Nam Từ Liêm,"~249,15 triệu/m²",10/05/2024,236 m²,"58,8 tỷ",,,,,,,,,
-12,Nhà mặt phố,Bắc Từ Liêm,"~241,67 triệu/m²",10/05/2024,120 m²,29 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,,,5 tầng,,,,5 m
-13,"Nhà biệt thự, liền kề",Hà Đông,,10/05/2024,225 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,,Đông - Nam,,
-14,"Nhà biệt thự, liền kề",Hoài Đức,~200 triệu/m²,10/05/2024,80 m²,16 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,25 phòng,25 phòng,7 tầng,Đông - Nam,Đông - Nam,15 m,18 m
-15,"Nhà biệt thự, liền kề",Hà Đông,,10/05/2024,80 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,,,,,Đông - Nam,Đông - Nam,,
-16,"Nhà biệt thự, liền kề",Nam Từ Liêm,"~213,78 triệu/m²",10/05/2024,283 m²,"60,5 tỷ",Sổ đỏ/ Sổ hồng,,5 phòng,4 phòng,4 tầng,Đông - Bắc,Đông - Bắc,15 m,18 m
-17,"Nhà biệt thự, liền kề",Hà Đông,"~123,33 triệu/m²",09/05/2024,120 m²,"14,8 tỷ",Sổ đỏ/ Sổ hồng,,,,4 tầng,Đông - Nam,Tây - Bắc,"13,5 m",6 m
-18,"Nhà biệt thự, liền kề",Hoài Đức,,08/05/2024,135 m²,Thỏa thuận,,,,,5 tầng,,,,"7,5 m"
-19,,,,,,,,,,,,,,,
-20,,,,,,,,,,,,,,,
+,pr_id,type_estate,district,posted_date,area,price,legal_document,interior,num_bedrooms,num_bathrooms,num_floors,house_orientation,balcony_orientation,entrance,frontage39431418,Nhà biệt thự liền kề,Gia Lâm,15/05/2024,"192,5 m²",Thỏa thuận,Đang chờ sổ,Không nội thất.,4 phòng,3 phòng,,,,,
+39648159,Shophouse/Nhà phố thương mại,Hoàng Mai,15/05/2024,75 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,,,,,,,
+39648195,Nhà biệt thự liền kề,Long Biên,12/05/2024,220 m²,Thỏa thuận,,,,,,,,,
+39855796,Nhà biệt thự liền kề,Hoàng Mai,15/05/2024,930 m²,138 tỷ,Sổ đỏ/ Sổ hồng,Không nội thất,9 phòng,9 phòng,4 tầng,Đông - Nam,Đông - Nam,35 m,30 m
+39824404,Shophouse/Nhà phố thương mại,Hà Đông,11/05/2024,625 m²,23 tỷ,Sổ đỏ/ Sổ hồng,Đầy đủ,13 phòng,12 phòng,,,,40 m,10 m
+39846333,Nhà riêng,Hà Đông,14/05/2024,47 m²,"5,8 tỷ",Sổ đỏ/ Sổ hồng,Không nội thất,,,,,,,4 m
+39850288,Nhà biệt thự liền kề,Hà Đông,14/05/2024,"198,9 m²",58 tỷ,Sổ hồng/sổ đỏ,,,,4 tầng,,,,27 m
+39846461,Nhà mặt phố,Hai Bà Trưng,14/05/2024,105 m²,"73,5 tỷ",Sổ đỏ/ Sổ hồng,Đầy đủ,,,6 tầng,,,,6 m
+39847124,Shophouse/Nhà phố thương mại,,,,,,,,,,,,,
+39844629,Nhà riêng,,,,,,,,,,,,,
+39845807,Nhà biệt thự liền kề,Nam Từ Liêm,14/05/2024,283 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng.,Đầy đủ.,5 phòng,5 phòng,5 tầng,,,,
+39844152,Nhà biệt thự liền kề,Hoàng Mai,14/05/2024,75 m²,Thỏa thuận,Sổ đỏ/ Sổ hồng,Cơ bản,6 phòng,5 phòng,4 tầng,Đông - Nam,Đông - Nam,34 m,5 m
