@@ -1,12 +1,25 @@
 # Hướng dẫn cài đặt và chạy chương trình
-Bước 1: Tải các thư viện cần thiết ''' pip install -r requirements.txt ''' 
-Bước 2: chạy chương trình ETL '''python main.py '''
+Bước 1: Tải các thư viện cần thiết " pip install -r requirements.txt " 
+Bước 2: chạy chương trình ETL "python main.py "
 Chương trình ETL khi được chạy sẽ thực hiện các công việc extract data từ website sau đó transform data, làm sạch dữ liệu và cuối cùng là load data và cơ sở dữ liệu.
 Chương trình ETL được cài đặt để chạy định kỳ 1 tháng 1 lần (nếu người dùng không tắt chương trình).
 Chương trình ETL mỗi lần được thực hiện lại sẽ tốn khoảng 10 tiếng.
 Bước 3: Chạy visualize dữ liệu bằng cách chạy file visualize.jpynb (dữ liệu được lấy từ cơ sở dữ liệu đã được load từ chương trình ETL)
 Bước 4: Chạy các file LinearRegress.ipynb, RandomForest.ipynb, SVM.ipynb để thực hiện đào tạo các mô hình học máy tương ứng. (Các mô hình đào tạo được lưu trữ vào thư mục model)
 Bước 5: Chạy file predict.ipynb để dự đoán giá và lưu kết quả dự đoán vào cơ sở dữ liệu.
+Thay đổi các giá trị ở ô cuối cùng để thử nghiệm.
+testInfo = pd.DataFrame({
+    "type_estate": 0,
+    "district": 5,
+    "area": 11,
+    "legal_document": 2,
+    "interior": 3,
+    "num_bedrooms": 2,
+    "num_bathrooms": 3,
+    "num_floors": 2,
+    "entrance": 5.3,
+    "frontage": 3.2,
+}, index=[0])
 
 # Lưu ý:
 Vì mỗi thực hiện ETL tốn rất nhiều thời gian nên chúng tôi đã lưu trữ dữ liệu đã được ETL vào cơ sở dữ liệu để thực hiện các công việc khác.
